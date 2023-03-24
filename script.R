@@ -34,3 +34,11 @@ getCounts <- function(url) {
   
 }
 
+getDate <- function(url) {
+  page <- read_html(url)
+  date <- page %>% html_nodes(".lead") %>% html_text()
+  date <- strsplit(date," - ",fixed=TRUE)[[1]]
+  date <- mdy(date)
+  return(date)
+}
+
