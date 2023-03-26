@@ -1,5 +1,6 @@
 library(tidyverse)
 library(rvest)
+library(plyr)
 
 getCounts <- function(url) {
   
@@ -51,23 +52,91 @@ getCompleteTypeFrame <- function(url) {
   return(df)
 }
 
-url <- "https://www.reed.edu/community_safety/past-blotters-activity.html"
-page <- read_html(url)
-
-links_list <- page %>% html_nodes("p") %>% html_children() %>% html_attr("href")
-links_df <- as.data.frame(links_list)
-links_df <- links_df %>% filter(!is.na(links_list))
-links_df <- links_df %>% filter(grepl("blotters",links_list))
-links_df$links_list <- paste("https://reed.edu/community_safety/",links_df$links_list,sep="")
-
-counts_df <- as.data.frame(matrix(ncol=4,nrow=0))
-colnames(counts_df) <- c("Type","Incidents","startDate","endDate")
-
-for (i in 1:length(links_df$links_list)) {
-  temp_df <- getCompleteTypeFrame(links_df$links_list[i])
-  counts_df <- rbind(counts_df,temp_df)
-  message(i)
+parse_case_header <- function(node) {
+  void_check <- node %>% html_text()
+  message(void_check)
+  
+  children <- node %>% html_children()
+  length_check <- length(children)
+  z <- 1
+  while (z <= length_check) {
+    check_text <- children[z] %>% html_text
+    if ((check_text == "") | (check_text == "Vehicle")) {
+      children <- children[-z]
+      z <- z
+    } else {
+      z <- z + 1
+    }
+    length_check <- length(children)
+  }
+  num_rows <- length(children) / 2
+  temp_df <- as.data.frame(matrix(ncol=2,nrow=num_rows))
+  colnames(temp_df) <- c("Detail","Value")
+  for (i in 1:length(children)) {
+    if ((i %% 2) != 0) {
+      temp_df[i,]$Detail <- children[i] %>% html_text()
+      temp_df[i,]$Value <- children[i+1] %>% html_text()
+    }
+  }
+  temp_df <- temp_df %>% filter(!is.na(Detail))
+  temp_df$Detail <- gsub(":","",temp_df$Detail)
+  
+  merged_date <- paste(temp_df[which(temp_df$Detail == "Date"),]$Value,temp_df[which(temp_df$Detail == "Time"),]$Value,sep=" ")
+  merged_date <- parse_date_time(merged_date,orders=c("ymdHM"))
+  
+  transposed_df <- t(temp_df)
+  colnames(transposed_df) <- transposed_df[1,]
+  colnames(transposed_df) <- gsub(" ","",colnames(transposed_df))
+  transposed_df <- as.data.frame(transposed_df)
+  rownames(transposed_df) <- 1:length(transposed_df$Date)
+  transposed_df <- transposed_df[-c(1),]
+  rownames(transposed_df) <- 1:length(transposed_df$Date)
+  transposed_df <- cbind(transposed_df,Date_Time=NA)
+  transposed_df$Date_Time <- merged_date
+  
+  if ("Notes" %in% colnames(transposed_df)) {
+    transposed_df <- transposed_df %>% select(!Notes) 
+  }
+  
+  return(transposed_df)
+  
 }
+
+getFullReports <- function(url) {
+  
+  page <- read_html(url)
+  nodes <- page %>% html_nodes("p")
+  
+  df <- as.data.frame(matrix(ncol=6,nrow=0))
+  colnames(df) <- c("Case#","Date","Time","Description","Location","Date_Time")
+  
+  for (j in 1:length(nodes)) {
+    curr_node <- nodes[j]
+    curr_text <- curr_node %>% html_text()
+    if (grepl("Case #",curr_text)) {
+      case_header <- curr_node
+      case_notes <- nodes[j+1]
+      if (grepl("VOID",case_header %>% html_text()) | 
+          grepl("TEST CASE",case_header %>% html_text()) | 
+          grepl("Incomplete",case_header %>% html_text()) | 
+          grepl("incomplete",case_header %>% html_text()) |
+          grepl("Transport - Alcohol",case_header %>% html_text()) |
+          grepl("Possession",case_header %>% html_text())) {
+        message("void report")
+      } else {
+        temp_row <- parse_case_header(case_header)
+        temp_row <- cbind(temp_row,Notes=NA)
+        temp_row$Notes <- case_notes %>% html_text
+        df <- rbind.fill(df,temp_row) 
+      }
+    }
+  }
+  
+  return(df)
+  
+}
+
+
 
 
 
