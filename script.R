@@ -107,8 +107,8 @@ getFullReports <- function(url) {
   page <- read_html(url)
   nodes <- page %>% html_nodes("p")
   
-  df <- as.data.frame(matrix(ncol=6,nrow=0))
-  colnames(df) <- c("Case#","Date","Time","Description","Location","Date_Time")
+  df <- as.data.frame(matrix(ncol=5,nrow=0))
+  colnames(df) <- c("Case#","Date","Time","Description","Location")
   
   for (j in 1:length(nodes)) {
     curr_node <- nodes[j]
