@@ -18,16 +18,15 @@ colnames(reports_df) <- c("Case#","Date","Time","Description","Location","Date_T
 for (i in 1:length(links_df$links_list)) {
   message(i)
   url <- links_df$links_list[i]
-  #cursed <- c("https://reed.edu/community_safety/blotters/blotter-11.28-12.04.22.html","https://reed.edu/community_safety/blotters/blotter-03.14-03.20.html","https://reed.edu/community_safety/blotters/blotter-11.22-11.28.html","https://reed.edu/community_safety/blotters/blotter-10.25-10.31.21.html")
-  cursed <- c()
+  cursed <- c("https://reed.edu/community_safety/blotters/blotter-11.28-12.04.22.html","https://reed.edu/community_safety/blotters/blotter-03.14-03.20.html","https://reed.edu/community_safety/blotters/blotter-11.22-11.28.html","https://reed.edu/community_safety/blotters/blotter-10.25-10.31.21.html")
   if (url %in% cursed) {
     message("cursed url")
   } else {
     message(url)
     temp_df <- getCompleteTypeFrame(url)
-    #temp_reports <- getFullReports(url)
+    temp_reports <- getFullReports(url)
     counts_df <- rbind(counts_df,temp_df)
-    #reports_df <- rbind(reports_df,temp_reports) 
+    reports_df <- rbind(reports_df,temp_reports) 
   }
 }
 

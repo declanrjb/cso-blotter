@@ -1,1325 +1,1392 @@
-"Type","Incidents","startDate","endDate","Year"
-"Alarm checks",10,2023-03-27,2023-04-02,2023
-"Animal issue responses",0,2023-03-27,2023-04-02,2023
-"AOD interactions",1,2023-03-27,2023-04-02,2023
-"Building patrols",325,2023-03-27,2023-04-02,2023
-"Candle/incense violation interactions",0,2023-03-27,2023-04-02,2023
-"Community assistance responses",1,2023-03-27,2023-04-02,2023
-"Escorts",4,2023-03-27,2023-04-02,2023
-"Fire responses",0,2023-03-27,2023-04-02,2023
-"Foot patrols",159,2023-03-27,2023-04-02,2023
-"Held door checks",4,2023-03-27,2023-04-02,2023
-"Maintenance issue responses",1,2023-03-27,2023-04-02,2023
-"Medical assistance responses",3,2023-03-27,2023-04-02,2023
-"Noise complaint responses",0,2023-03-27,2023-04-02,2023
-"Suspicious circumstance responses",10,2023-03-27,2023-04-02,2023
-"Theft reports taken",0,2023-03-27,2023-04-02,2023
-"Unlocks",84,2023-03-27,2023-04-02,2023
-"Vehicle patrols",266,2023-03-27,2023-04-02,2023
-"Vehicle assistance responses",1,2023-03-27,2023-04-02,2023
-"Welfare check responses",1,2023-03-27,2023-04-02,2023
-"Alarm checks",10,2023-03-20,2023-03-26,2023
-"Animal issue responses",0,2023-03-20,2023-03-26,2023
-"AOD interactions",1,2023-03-20,2023-03-26,2023
-"Building patrols",299,2023-03-20,2023-03-26,2023
-"Candle/incense violation interactions",0,2023-03-20,2023-03-26,2023
-"Community assistance responses",0,2023-03-20,2023-03-26,2023
-"Escorts",4,2023-03-20,2023-03-26,2023
-"Fire responses",0,2023-03-20,2023-03-26,2023
-"Foot patrols",185,2023-03-20,2023-03-26,2023
-"Held door checks",12,2023-03-20,2023-03-26,2023
-"Maintenance issue responses",4,2023-03-20,2023-03-26,2023
-"Medical assistance responses",2,2023-03-20,2023-03-26,2023
-"Noise complaint responses",1,2023-03-20,2023-03-26,2023
-"Suspicious circumstance responses",5,2023-03-20,2023-03-26,2023
-"Theft reports taken",1,2023-03-20,2023-03-26,2023
-"Unlocks",70,2023-03-20,2023-03-26,2023
-"Vehicle patrols",226,2023-03-20,2023-03-26,2023
-"Vehicle assistance responses",5,2023-03-20,2023-03-26,2023
-"Welfare check responses",3,2023-03-20,2023-03-26,2023
-"Alarm checks",5,2023-03-13,2023-03-19,2023
-"Animal issue responses",0,2023-03-13,2023-03-19,2023
-"AOD interactions",0,2023-03-13,2023-03-19,2023
-"Building patrols",285,2023-03-13,2023-03-19,2023
-"Candle/incense violation interactions",0,2023-03-13,2023-03-19,2023
-"Community assistance responses",1,2023-03-13,2023-03-19,2023
-"Escorts",3,2023-03-13,2023-03-19,2023
-"Fire responses",0,2023-03-13,2023-03-19,2023
-"Foot patrols",162,2023-03-13,2023-03-19,2023
-"Held door checks",11,2023-03-13,2023-03-19,2023
-"Maintenance issue responses",1,2023-03-13,2023-03-19,2023
-"Medical assistance responses",4,2023-03-13,2023-03-19,2023
-"Noise complaint responses",0,2023-03-13,2023-03-19,2023
-"Suspicious circumstance responses",10,2023-03-13,2023-03-19,2023
-"Theft reports taken",0,2023-03-13,2023-03-19,2023
-"Unlocks",73,2023-03-13,2023-03-19,2023
-"Vehicle patrols",252,2023-03-13,2023-03-19,2023
-"Vehicle assistance responses",2,2023-03-13,2023-03-19,2023
-"Welfare check responses",1,2023-03-13,2023-03-19,2023
-"Alarm checks",5,2023-03-06,2023-03-12,2023
-"Animal issue responses",0,2023-03-06,2023-03-12,2023
-"AOD interactions",4,2023-03-06,2023-03-12,2023
-"Building patrols",366,2023-03-06,2023-03-12,2023
-"Candle/incense violation interactions",0,2023-03-06,2023-03-12,2023
-"Community assistance responses",1,2023-03-06,2023-03-12,2023
-"Escorts",6,2023-03-06,2023-03-12,2023
-"Fire responses",0,2023-03-06,2023-03-12,2023
-"Foot patrols",192,2023-03-06,2023-03-12,2023
-"Held door checks",8,2023-03-06,2023-03-12,2023
-"Maintenance issue responses",2,2023-03-06,2023-03-12,2023
-"Medical assistance responses",5,2023-03-06,2023-03-12,2023
-"Noise complaint responses",0,2023-03-06,2023-03-12,2023
-"Suspicious circumstance responses",8,2023-03-06,2023-03-12,2023
-"Theft reports taken",1,2023-03-06,2023-03-12,2023
-"Unlocks",61,2023-03-06,2023-03-12,2023
-"Vehicle patrols",262,2023-03-06,2023-03-12,2023
-"Vehicle assistance responses",5,2023-03-06,2023-03-12,2023
-"Welfare check responses",0,2023-03-06,2023-03-12,2023
-"Alarm checks",4,2023-02-27,2023-03-05,2023
-"Animal issue responses",1,2023-02-27,2023-03-05,2023
-"AOD interactions",1,2023-02-27,2023-03-05,2023
-"Building patrols",326,2023-02-27,2023-03-05,2023
-"Candle/incense violation interactions",0,2023-02-27,2023-03-05,2023
-"Community assistance responses",6,2023-02-27,2023-03-05,2023
-"Escorts",2,2023-02-27,2023-03-05,2023
-"Fire responses",0,2023-02-27,2023-03-05,2023
-"Foot patrols",183,2023-02-27,2023-03-05,2023
-"Held door checks",7,2023-02-27,2023-03-05,2023
-"Maintenance issue responses",3,2023-02-27,2023-03-05,2023
-"Medical assistance responses",6,2023-02-27,2023-03-05,2023
-"Noise complaint responses",0,2023-02-27,2023-03-05,2023
-"Suspicious circumstance responses",9,2023-02-27,2023-03-05,2023
-"Theft reports taken",0,2023-02-27,2023-03-05,2023
-"Unlocks",91,2023-02-27,2023-03-05,2023
-"Vehicle patrols",252,2023-02-27,2023-03-05,2023
-"Vehicle assistance responses",0,2023-02-27,2023-03-05,2023
-"Welfare check responses",0,2023-02-27,2023-03-05,2023
-"Alarm checks",8,2023-02-20,2023-02-26,2023
-"Animal issue responses",0,2023-02-20,2023-02-26,2023
-"AOD interactions",0,2023-02-20,2023-02-26,2023
-"Building patrols",298,2023-02-20,2023-02-26,2023
-"Candle/incense violation interactions",0,2023-02-20,2023-02-26,2023
-"Community assistance responses",1,2023-02-20,2023-02-26,2023
-"Escorts",3,2023-02-20,2023-02-26,2023
-"Fire responses",0,2023-02-20,2023-02-26,2023
-"Foot patrols",225,2023-02-20,2023-02-26,2023
-"Held door checks",10,2023-02-20,2023-02-26,2023
-"Maintenance issue responses",0,2023-02-20,2023-02-26,2023
-"Medical assistance responses",1,2023-02-20,2023-02-26,2023
-"Noise complaint responses",1,2023-02-20,2023-02-26,2023
-"Suspicious circumstance responses",5,2023-02-20,2023-02-26,2023
-"Theft reports taken",0,2023-02-20,2023-02-26,2023
-"Unlocks",75,2023-02-20,2023-02-26,2023
-"Vehicle patrols",216,2023-02-20,2023-02-26,2023
-"Vehicle assistance responses",0,2023-02-20,2023-02-26,2023
-"Welfare check responses",0,2023-02-20,2023-02-26,2023
-"Alarm checks",8,2023-02-13,2023-02-19,2023
-"Animal issue responses",0,2023-02-13,2023-02-19,2023
-"AOD interactions",0,2023-02-13,2023-02-19,2023
-"Building patrols",378,2023-02-13,2023-02-19,2023
-"Candle/incense violation interactions",0,2023-02-13,2023-02-19,2023
-"Community assistance responses",1,2023-02-13,2023-02-19,2023
-"Escorts",4,2023-02-13,2023-02-19,2023
-"Fire responses",0,2023-02-13,2023-02-19,2023
-"Foot patrols",191,2023-02-13,2023-02-19,2023
-"Held door checks",12,2023-02-13,2023-02-19,2023
-"Maintenance issue responses",0,2023-02-13,2023-02-19,2023
-"Medical assistance responses",3,2023-02-13,2023-02-19,2023
-"Noise complaint responses",2,2023-02-13,2023-02-19,2023
-"Suspicious circumstance responses",9,2023-02-13,2023-02-19,2023
-"Theft reports taken",3,2023-02-13,2023-02-19,2023
-"Unlocks",76,2023-02-13,2023-02-19,2023
-"Vehicle patrols",271,2023-02-13,2023-02-19,2023
-"Vehicle assistance responses",1,2023-02-13,2023-02-19,2023
-"Welfare check responses",1,2023-02-13,2023-02-19,2023
-"Alarm checks",4,2023-02-06,2023-02-12,2023
-"Animal issue responses",0,2023-02-06,2023-02-12,2023
-"AOD interactions",1,2023-02-06,2023-02-12,2023
-"Building patrols",320,2023-02-06,2023-02-12,2023
-"Candle/incense violation interactions",0,2023-02-06,2023-02-12,2023
-"Community assistance responses",4,2023-02-06,2023-02-12,2023
-"Escorts",4,2023-02-06,2023-02-12,2023
-"Fire responses",0,2023-02-06,2023-02-12,2023
-"Foot patrols",234,2023-02-06,2023-02-12,2023
-"Held door checks",4,2023-02-06,2023-02-12,2023
-"Maintenance issue responses",2,2023-02-06,2023-02-12,2023
-"Medical assistance responses",3,2023-02-06,2023-02-12,2023
-"Noise complaint responses",1,2023-02-06,2023-02-12,2023
-"Suspicious circumstance responses",10,2023-02-06,2023-02-12,2023
-"Theft reports taken",0,2023-02-06,2023-02-12,2023
-"Unlocks",59,2023-02-06,2023-02-12,2023
-"Vehicle patrols",283,2023-02-06,2023-02-12,2023
-"Vehicle assistance responses",3,2023-02-06,2023-02-12,2023
-"Welfare check responses",1,2023-02-06,2023-02-12,2023
-"Alarm checks",17,2023-01-30,2023-02-05,2023
-"Animal issue responses",0,2023-01-30,2023-02-05,2023
-"AOD interactions",1,2023-01-30,2023-02-05,2023
-"Building patrols",317,2023-01-30,2023-02-05,2023
-"Candle/incense violation interactions",0,2023-01-30,2023-02-05,2023
-"Community assistance responses",0,2023-01-30,2023-02-05,2023
-"Escorts",1,2023-01-30,2023-02-05,2023
-"Fire responses",0,2023-01-30,2023-02-05,2023
-"Foot patrols",208,2023-01-30,2023-02-05,2023
-"Held door checks",3,2023-01-30,2023-02-05,2023
-"Maintenance issue responses",2,2023-01-30,2023-02-05,2023
-"Medical assistance responses",2,2023-01-30,2023-02-05,2023
-"Noise complaint responses",0,2023-01-30,2023-02-05,2023
-"Suspicious circumstance responses",16,2023-01-30,2023-02-05,2023
-"Theft reports taken",1,2023-01-30,2023-02-05,2023
-"Unlocks",75,2023-01-30,2023-02-05,2023
-"Vehicle patrols",284,2023-01-30,2023-02-05,2023
-"Vehicle assistance responses",3,2023-01-30,2023-02-05,2023
-"Welfare check responses",0,2023-01-30,2023-02-05,2023
-"Alarm checks",6,2023-01-23,2023-01-29,2023
-"Animal issue responses",0,2023-01-23,2023-01-29,2023
-"AOD interactions",4,2023-01-23,2023-01-29,2023
-"Building patrols",351,2023-01-23,2023-01-29,2023
-"Candle/incense violation interactions",0,2023-01-23,2023-01-29,2023
-"Community assistance responses",5,2023-01-23,2023-01-29,2023
-"Escorts",3,2023-01-23,2023-01-29,2023
-"Fire responses",0,2023-01-23,2023-01-29,2023
-"Foot patrols",193,2023-01-23,2023-01-29,2023
-"Held door checks",11,2023-01-23,2023-01-29,2023
-"Maintenance issue responses",2,2023-01-23,2023-01-29,2023
-"Medical assistance responses",1,2023-01-23,2023-01-29,2023
-"Noise complaint responses",2,2023-01-23,2023-01-29,2023
-"Suspicious circumstance responses",23,2023-01-23,2023-01-29,2023
-"Theft reports taken",1,2023-01-23,2023-01-29,2023
-"Unlocks",85,2023-01-23,2023-01-29,2023
-"Vehicle patrols",307,2023-01-23,2023-01-29,2023
-"Vehicle assistance responses",0,2023-01-23,2023-01-29,2023
-"Welfare check responses",0,2023-01-23,2023-01-29,2023
-"Alarm checks",17,2023-01-16,2023-01-22,2023
-"Animal issue responses",0,2023-01-16,2023-01-22,2023
-"AOD interactions",2,2023-01-16,2023-01-22,2023
-"Building patrols",368,2023-01-16,2023-01-22,2023
-"Candle/incense violation interactions",0,2023-01-16,2023-01-22,2023
-"Community assistance responses",1,2023-01-16,2023-01-22,2023
-"Escorts",4,2023-01-16,2023-01-22,2023
-"Fire responses",0,2023-01-16,2023-01-22,2023
-"Foot patrols",240,2023-01-16,2023-01-22,2023
-"Held door checks",14,2023-01-16,2023-01-22,2023
-"Maintenance issue responses",4,2023-01-16,2023-01-22,2023
-"Medical assistance responses",1,2023-01-16,2023-01-22,2023
-"Noise complaint responses",0,2023-01-16,2023-01-22,2023
-"Suspicious circumstance responses",7,2023-01-16,2023-01-22,2023
-"Theft reports taken",2,2023-01-16,2023-01-22,2023
-"Unlocks",117,2023-01-16,2023-01-22,2023
-"Vehicle patrols",280,2023-01-16,2023-01-22,2023
-"Vehicle assistance responses",3,2023-01-16,2023-01-22,2023
-"Welfare check responses",2,2023-01-16,2023-01-22,2023
-"Alarm checks",5,2023-01-09,2023-01-15,2023
-"Animal issue responses",0,2023-01-09,2023-01-15,2023
-"AOD interactions",0,2023-01-09,2023-01-15,2023
-"Building patrols",288,2023-01-09,2023-01-15,2023
-"Candle/incense violation interactions",0,2023-01-09,2023-01-15,2023
-"Community assistance responses",0,2023-01-09,2023-01-15,2023
-"Escorts",3,2023-01-09,2023-01-15,2023
-"Fire responses",0,2023-01-09,2023-01-15,2023
-"Foot patrols",179,2023-01-09,2023-01-15,2023
-"Held door checks",10,2023-01-09,2023-01-15,2023
-"Maintenance issue responses",2,2023-01-09,2023-01-15,2023
-"Medical assistance responses",1,2023-01-09,2023-01-15,2023
-"Noise complaint responses",0,2023-01-09,2023-01-15,2023
-"Suspicious circumstance responses",9,2023-01-09,2023-01-15,2023
-"Theft reports taken",0,2023-01-09,2023-01-15,2023
-"Unlocks",98,2023-01-09,2023-01-15,2023
-"Vehicle patrols",266,2023-01-09,2023-01-15,2023
-"Vehicle assistance responses",0,2023-01-09,2023-01-15,2023
-"Welfare check responses",1,2023-01-09,2023-01-15,2023
-"Alarm checks",13,2023-01-01,2023-01-08,2023
-"Animal issue responses",1,2023-01-01,2023-01-08,2023
-"AOD interactions",0,2023-01-01,2023-01-08,2023
-"Building patrols",313,2023-01-01,2023-01-08,2023
-"Candle/incense violation interactions",0,2023-01-01,2023-01-08,2023
-"Community assistance responses",0,2023-01-01,2023-01-08,2023
-"Escorts",3,2023-01-01,2023-01-08,2023
-"Fire responses",0,2023-01-01,2023-01-08,2023
-"Foot patrols",151,2023-01-01,2023-01-08,2023
-"Held door checks",3,2023-01-01,2023-01-08,2023
-"Maintenance issue responses",2,2023-01-01,2023-01-08,2023
-"Medical assistance responses",1,2023-01-01,2023-01-08,2023
-"Noise complaint responses",0,2023-01-01,2023-01-08,2023
-"Suspicious circumstance responses",7,2023-01-01,2023-01-08,2023
-"Theft reports taken",1,2023-01-01,2023-01-08,2023
-"Unlocks",30,2023-01-01,2023-01-08,2023
-"Vehicle patrols",259,2023-01-01,2023-01-08,2023
-"Vehicle assistance responses",0,2023-01-01,2023-01-08,2023
-"Welfare check responses",0,2023-01-01,2023-01-08,2023
-"Alarm checks",2,2022-12-26,2022-12-31,2022
-"Animal issue responses",0,2022-12-26,2022-12-31,2022
-"AOD interactions",0,2022-12-26,2022-12-31,2022
-"Building patrols",179,2022-12-26,2022-12-31,2022
-"Candle/incense violation interactions",0,2022-12-26,2022-12-31,2022
-"Community assistance responses",2,2022-12-26,2022-12-31,2022
-"Escorts",0,2022-12-26,2022-12-31,2022
-"Fire responses",0,2022-12-26,2022-12-31,2022
-"Foot patrols",140,2022-12-26,2022-12-31,2022
-"Held door checks",4,2022-12-26,2022-12-31,2022
-"Maintenance issue responses",0,2022-12-26,2022-12-31,2022
-"Medical assistance responses",0,2022-12-26,2022-12-31,2022
-"Noise complaint responses",0,2022-12-26,2022-12-31,2022
-"Suspicious circumstance responses",1,2022-12-26,2022-12-31,2022
-"Theft reports taken",0,2022-12-26,2022-12-31,2022
-"Unlocks",18,2022-12-26,2022-12-31,2022
-"Vehicle patrols",178,2022-12-26,2022-12-31,2022
-"Vehicle assistance responses",0,2022-12-26,2022-12-31,2022
-"Welfare check responses",1,2022-12-26,2022-12-31,2022
-"Alarm checks",18,2022-12-19,2022-12-25,2022
-"Animal issue responses",0,2022-12-19,2022-12-25,2022
-"AOD interactions",0,2022-12-19,2022-12-25,2022
-"Building patrols",274,2022-12-19,2022-12-25,2022
-"Candle/incense violation interactions",0,2022-12-19,2022-12-25,2022
-"Community assistance responses",2,2022-12-19,2022-12-25,2022
-"Escorts",3,2022-12-19,2022-12-25,2022
-"Fire responses",0,2022-12-19,2022-12-25,2022
-"Foot patrols",178,2022-12-19,2022-12-25,2022
-"Held door checks",4,2022-12-19,2022-12-25,2022
-"Maintenance issue responses",1,2022-12-19,2022-12-25,2022
-"Medical assistance responses",0,2022-12-19,2022-12-25,2022
-"Noise complaint responses",0,2022-12-19,2022-12-25,2022
-"Suspicious circumstance responses",12,2022-12-19,2022-12-25,2022
-"Theft reports taken",1,2022-12-19,2022-12-25,2022
-"Unlocks",21,2022-12-19,2022-12-25,2022
-"Vehicle patrols",247,2022-12-19,2022-12-25,2022
-"Vehicle assistance responses",1,2022-12-19,2022-12-25,2022
-"Welfare check responses",0,2022-12-19,2022-12-25,2022
-"Alarm checks",14,2022-12-12,2022-12-18,2022
-"Animal issue responses",0,2022-12-12,2022-12-18,2022
-"AOD interactions",0,2022-12-12,2022-12-18,2022
-"Building patrols",288,2022-12-12,2022-12-18,2022
-"Candle/incense violation interactions",0,2022-12-12,2022-12-18,2022
-"Community assistance responses",0,2022-12-12,2022-12-18,2022
-"Escorts",3,2022-12-12,2022-12-18,2022
-"Fire responses",0,2022-12-12,2022-12-18,2022
-"Foot patrols",245,2022-12-12,2022-12-18,2022
-"Held door checks",17,2022-12-12,2022-12-18,2022
-"Maintenance issue responses",1,2022-12-12,2022-12-18,2022
-"Medical assistance responses",1,2022-12-12,2022-12-18,2022
-"Noise complaint responses",2,2022-12-12,2022-12-18,2022
-"Suspicious circumstance responses",6,2022-12-12,2022-12-18,2022
-"Theft reports taken",1,2022-12-12,2022-12-18,2022
-"Unlocks",70,2022-12-12,2022-12-18,2022
-"Vehicle patrols",213,2022-12-12,2022-12-18,2022
-"Vehicle assistance responses",3,2022-12-12,2022-12-18,2022
-"Welfare check responses",3,2022-12-12,2022-12-18,2022
-"Alarm checks",15,2022-12-05,2022-12-11,2022
-"Animal issue responses",0,2022-12-05,2022-12-11,2022
-"AOD interactions",1,2022-12-05,2022-12-11,2022
-"Building patrols",278,2022-12-05,2022-12-11,2022
-"Candle/incense violation interactions",0,2022-12-05,2022-12-11,2022
-"Community assistance responses",4,2022-12-05,2022-12-11,2022
-"Escorts",4,2022-12-05,2022-12-11,2022
-"Fire responses",0,2022-12-05,2022-12-11,2022
-"Foot patrols",196,2022-12-05,2022-12-11,2022
-"Held door checks",3,2022-12-05,2022-12-11,2022
-"Maintenance issue responses",5,2022-12-05,2022-12-11,2022
-"Medical assistance responses",3,2022-12-05,2022-12-11,2022
-"Noise complaint responses",4,2022-12-05,2022-12-11,2022
-"Suspicious circumstance responses",12,2022-12-05,2022-12-11,2022
-"Theft reports taken",0,2022-12-05,2022-12-11,2022
-"Unlocks",66,2022-12-05,2022-12-11,2022
-"Vehicle patrols",268,2022-12-05,2022-12-11,2022
-"Vehicle assistance responses",6,2022-12-05,2022-12-11,2022
-"Welfare check responses",0,2022-12-05,2022-12-11,2022
-"Alarm checks",14,2022-11-21,2022-11-27,2022
-"Animal issue responses",0,2022-11-21,2022-11-27,2022
-"AOD interactions",1,2022-11-21,2022-11-27,2022
-"Building patrols",209,2022-11-21,2022-11-27,2022
-"Candle/incense violation interactions",0,2022-11-21,2022-11-27,2022
-"Community assistance responses",0,2022-11-21,2022-11-27,2022
-"Escorts",2,2022-11-21,2022-11-27,2022
-"Fire responses",0,2022-11-21,2022-11-27,2022
-"Foot patrols",202,2022-11-21,2022-11-27,2022
-"Held door checks",9,2022-11-21,2022-11-27,2022
-"Maintenance issue responses",3,2022-11-21,2022-11-27,2022
-"Medical assistance responses",1,2022-11-21,2022-11-27,2022
-"Noise complaint responses",2,2022-11-21,2022-11-27,2022
-"Suspicious circumstance responses",18,2022-11-21,2022-11-27,2022
-"Theft reports taken",0,2022-11-21,2022-11-27,2022
-"Unlocks",58,2022-11-21,2022-11-27,2022
-"Vehicle patrols",263,2022-11-21,2022-11-27,2022
-"Vehicle assistance responses",3,2022-11-21,2022-11-27,2022
-"Welfare check responses",0,2022-11-21,2022-11-27,2022
-"Alarm checks",10,2022-11-14,2022-11-20,2022
-"Animal issue responses",1,2022-11-14,2022-11-20,2022
-"AOD interactions",2,2022-11-14,2022-11-20,2022
-"Building patrols",178,2022-11-14,2022-11-20,2022
-"Candle/incense violation interactions",0,2022-11-14,2022-11-20,2022
-"Community assistance responses",1,2022-11-14,2022-11-20,2022
-"Escorts",0,2022-11-14,2022-11-20,2022
-"Fire responses",0,2022-11-14,2022-11-20,2022
-"Foot patrols",190,2022-11-14,2022-11-20,2022
-"Held door checks",13,2022-11-14,2022-11-20,2022
-"Maintenance issue responses",2,2022-11-14,2022-11-20,2022
-"Medical assistance responses",0,2022-11-14,2022-11-20,2022
-"Noise complaint responses",0,2022-11-14,2022-11-20,2022
-"Suspicious circumstance responses",13,2022-11-14,2022-11-20,2022
-"Theft reports taken",3,2022-11-14,2022-11-20,2022
-"Unlocks",81,2022-11-14,2022-11-20,2022
-"Vehicle patrols",235,2022-11-14,2022-11-20,2022
-"Vehicle assistance responses",4,2022-11-14,2022-11-20,2022
-"Welfare check responses",1,2022-11-14,2022-11-20,2022
-"Alarm checks",15,2022-11-07,2022-11-13,2022
-"Animal issue responses",0,2022-11-07,2022-11-13,2022
-"AOD interactions",1,2022-11-07,2022-11-13,2022
-"Building patrols",179,2022-11-07,2022-11-13,2022
-"Candle/incense violation interactions",0,2022-11-07,2022-11-13,2022
-"Community assistance responses",3,2022-11-07,2022-11-13,2022
-"Escorts",5,2022-11-07,2022-11-13,2022
-"Fire responses",1,2022-11-07,2022-11-13,2022
-"Foot patrols",168,2022-11-07,2022-11-13,2022
-"Held door checks",14,2022-11-07,2022-11-13,2022
-"Maintenance issue responses",4,2022-11-07,2022-11-13,2022
-"Medical assistance responses",1,2022-11-07,2022-11-13,2022
-"Noise complaint responses",0,2022-11-07,2022-11-13,2022
-"Suspicious circumstance responses",3,2022-11-07,2022-11-13,2022
-"Theft reports taken",2,2022-11-07,2022-11-13,2022
-"Unlocks",81,2022-11-07,2022-11-13,2022
-"Vehicle patrols",213,2022-11-07,2022-11-13,2022
-"Vehicle assistance responses",1,2022-11-07,2022-11-13,2022
-"Welfare check responses",1,2022-11-07,2022-11-13,2022
-"Alarm checks",7,2022-10-31,2022-11-06,2022
-"Animal issue responses",0,2022-10-31,2022-11-06,2022
-"AOD interactions",3,2022-10-31,2022-11-06,2022
-"Building patrols",140,2022-10-31,2022-11-06,2022
-"Candle/incense violation interactions",0,2022-10-31,2022-11-06,2022
-"Community assistance responses",4,2022-10-31,2022-11-06,2022
-"Escorts",2,2022-10-31,2022-11-06,2022
-"Fire responses",0,2022-10-31,2022-11-06,2022
-"Foot patrols",168,2022-10-31,2022-11-06,2022
-"Held door checks",20,2022-10-31,2022-11-06,2022
-"Maintenance issue responses",1,2022-10-31,2022-11-06,2022
-"Medical assistance responses",2,2022-10-31,2022-11-06,2022
-"Noise complaint responses",1,2022-10-31,2022-11-06,2022
-"Suspicious circumstance responses",20,2022-10-31,2022-11-06,2022
-"Theft reports taken",2,2022-10-31,2022-11-06,2022
-"Unlocks",68,2022-10-31,2022-11-06,2022
-"Vehicle patrols",191,2022-10-31,2022-11-06,2022
-"Vehicle assistance responses",2,2022-10-31,2022-11-06,2022
-"Welfare check responses",2,2022-10-31,2022-11-06,2022
-"Alarm checks",9,2022-10-24,2022-10-30,2022
-"Animal issue responses",0,2022-10-24,2022-10-30,2022
-"AOD interactions",1,2022-10-24,2022-10-30,2022
-"Building patrols",166,2022-10-24,2022-10-30,2022
-"Candle/incense violation interactions",0,2022-10-24,2022-10-30,2022
-"Community assistance responses",2,2022-10-24,2022-10-30,2022
-"Escorts",5,2022-10-24,2022-10-30,2022
-"Fire responses",0,2022-10-24,2022-10-30,2022
-"Foot patrols",177,2022-10-24,2022-10-30,2022
-"Held door checks",12,2022-10-24,2022-10-30,2022
-"Maintenance issue responses",0,2022-10-24,2022-10-30,2022
-"Medical assistance responses",3,2022-10-24,2022-10-30,2022
-"Noise complaint responses",3,2022-10-24,2022-10-30,2022
-"Suspicious circumstance responses",3,2022-10-24,2022-10-30,2022
-"Theft reports taken",4,2022-10-24,2022-10-30,2022
-"Unlocks",108,2022-10-24,2022-10-30,2022
-"Vehicle patrols",223,2022-10-24,2022-10-30,2022
-"Vehicle assistance responses",1,2022-10-24,2022-10-30,2022
-"Welfare check responses",2,2022-10-24,2022-10-30,2022
-"Alarm checks",7,2022-10-17,2022-10-23,2022
-"Animal issue responses",1,2022-10-17,2022-10-23,2022
-"AOD interactions",2,2022-10-17,2022-10-23,2022
-"Building patrols",136,2022-10-17,2022-10-23,2022
-"Candle/incense violation interactions",0,2022-10-17,2022-10-23,2022
-"Community assistance responses",1,2022-10-17,2022-10-23,2022
-"Escorts",0,2022-10-17,2022-10-23,2022
-"Fire responses",0,2022-10-17,2022-10-23,2022
-"Foot patrols",212,2022-10-17,2022-10-23,2022
-"Held door checks",6,2022-10-17,2022-10-23,2022
-"Maintenance issue responses",0,2022-10-17,2022-10-23,2022
-"Medical assistance responses",0,2022-10-17,2022-10-23,2022
-"Noise complaint responses",1,2022-10-17,2022-10-23,2022
-"Suspicious circumstance responses",4,2022-10-17,2022-10-23,2022
-"Theft reports taken",0,2022-10-17,2022-10-23,2022
-"Unlocks",67,2022-10-17,2022-10-23,2022
-"Vehicle patrols",221,2022-10-17,2022-10-23,2022
-"Vehicle assistance responses",0,2022-10-17,2022-10-23,2022
-"Welfare check responses",1,2022-10-17,2022-10-23,2022
-"Alarm checks",4,2022-10-10,2022-10-16,2022
-"Animal issue responses",0,2022-10-10,2022-10-16,2022
-"AOD interactions",1,2022-10-10,2022-10-16,2022
-"Building patrols",254,2022-10-10,2022-10-16,2022
-"Candle/incense violation interactions",1,2022-10-10,2022-10-16,2022
-"Community assistance responses",4,2022-10-10,2022-10-16,2022
-"Escorts",3,2022-10-10,2022-10-16,2022
-"Fire responses",0,2022-10-10,2022-10-16,2022
-"Foot patrols",318,2022-10-10,2022-10-16,2022
-"Held door checks",14,2022-10-10,2022-10-16,2022
-"Maintenance issue responses",0,2022-10-10,2022-10-16,2022
-"Medical assistance responses",2,2022-10-10,2022-10-16,2022
-"Noise complaint responses",0,2022-10-10,2022-10-16,2022
-"Suspicious circumstance responses",7,2022-10-10,2022-10-16,2022
-"Theft reports taken",2,2022-10-10,2022-10-16,2022
-"Unlocks",78,2022-10-10,2022-10-16,2022
-"Vehicle patrols",170,2022-10-10,2022-10-16,2022
-"Vehicle assistance responses",0,2022-10-10,2022-10-16,2022
-"Welfare check responses",0,2022-10-10,2022-10-16,2022
-"Alarm checks",7,2022-10-03,2022-10-09,2022
-"Animal issue responses",0,2022-10-03,2022-10-09,2022
-"AOD interactions",1,2022-10-03,2022-10-09,2022
-"Building patrols",195,2022-10-03,2022-10-09,2022
-"Candle/incense violation interactions",1,2022-10-03,2022-10-09,2022
-"Community assistance responses",1,2022-10-03,2022-10-09,2022
-"Escorts",10,2022-10-03,2022-10-09,2022
-"Fire responses",1,2022-10-03,2022-10-09,2022
-"Foot patrols",326,2022-10-03,2022-10-09,2022
-"Held door checks",16,2022-10-03,2022-10-09,2022
-"Maintenance issue responses",0,2022-10-03,2022-10-09,2022
-"Medical assistance responses",2,2022-10-03,2022-10-09,2022
-"Noise complaint responses",3,2022-10-03,2022-10-09,2022
-"Suspicious circumstance responses",17,2022-10-03,2022-10-09,2022
-"Theft reports taken",1,2022-10-03,2022-10-09,2022
-"Unlocks",85,2022-10-03,2022-10-09,2022
-"Vehicle patrols",163,2022-10-03,2022-10-09,2022
-"Vehicle assistance responses",1,2022-10-03,2022-10-09,2022
-"Welfare check responses",1,2022-10-03,2022-10-09,2022
-"Alarm checks",5,2022-09-26,2022-10-02,2022
-"Animal issue responses",0,2022-09-26,2022-10-02,2022
-"AOD interactions",1,2022-09-26,2022-10-02,2022
-"Building patrols",200,2022-09-26,2022-10-02,2022
-"Candle/incense violation interactions",0,2022-09-26,2022-10-02,2022
-"Community assistance responses",1,2022-09-26,2022-10-02,2022
-"Escorts",2,2022-09-26,2022-10-02,2022
-"Fire responses",0,2022-09-26,2022-10-02,2022
-"Foot patrols",260,2022-09-26,2022-10-02,2022
-"Held door checks",3,2022-09-26,2022-10-02,2022
-"Maintenance issue responses",1,2022-09-26,2022-10-02,2022
-"Medical assistance responses",6,2022-09-26,2022-10-02,2022
-"Noise complaint responses",2,2022-09-26,2022-10-02,2022
-"Suspicious circumstance responses",5,2022-09-26,2022-10-02,2022
-"Theft reports taken",4,2022-09-26,2022-10-02,2022
-"Unlocks",78,2022-09-26,2022-10-02,2022
-"Vehicle patrols",130,2022-09-26,2022-10-02,2022
-"Vehicle assistance responses",1,2022-09-26,2022-10-02,2022
-"Welfare check responses",3,2022-09-26,2022-10-02,2022
-"Alarm checks",8,2022-09-19,2022-09-25,2022
-"Animal issue responses",0,2022-09-19,2022-09-25,2022
-"AOD interactions",1,2022-09-19,2022-09-25,2022
-"Building patrols",192,2022-09-19,2022-09-25,2022
-"Candle/incense violation interactions",0,2022-09-19,2022-09-25,2022
-"Community assistance responses",3,2022-09-19,2022-09-25,2022
-"Escorts",4,2022-09-19,2022-09-25,2022
-"Fire responses",0,2022-09-19,2022-09-25,2022
-"Foot patrols",190,2022-09-19,2022-09-25,2022
-"Held door checks",11,2022-09-19,2022-09-25,2022
-"Maintenance issue responses",2,2022-09-19,2022-09-25,2022
-"Medical assistance responses",4,2022-09-19,2022-09-25,2022
-"Noise complaint responses",1,2022-09-19,2022-09-25,2022
-"Suspicious circumstance responses",6,2022-09-19,2022-09-25,2022
-"Theft reports taken",3,2022-09-19,2022-09-25,2022
-"Unlocks",100,2022-09-19,2022-09-25,2022
-"Vehicle patrols",184,2022-09-19,2022-09-25,2022
-"Vehicle assistance responses",1,2022-09-19,2022-09-25,2022
-"Welfare check responses",0,2022-09-19,2022-09-25,2022
-"Alarm checks",10,2022-09-12,2022-09-18,2022
-"Animal issue responses",0,2022-09-12,2022-09-18,2022
-"AOD interactions",3,2022-09-12,2022-09-18,2022
-"Building patrols",171,2022-09-12,2022-09-18,2022
-"Candle/incense violation interactions",0,2022-09-12,2022-09-18,2022
-"Community assistance responses",5,2022-09-12,2022-09-18,2022
-"Escorts",5,2022-09-12,2022-09-18,2022
-"Fire responses",0,2022-09-12,2022-09-18,2022
-"Foot patrols",255,2022-09-12,2022-09-18,2022
-"Held door checks",16,2022-09-12,2022-09-18,2022
-"Maintenance issue responses",4,2022-09-12,2022-09-18,2022
-"Medical assistance responses",1,2022-09-12,2022-09-18,2022
-"Noise complaint responses",0,2022-09-12,2022-09-18,2022
-"Suspicious circumstance responses",18,2022-09-12,2022-09-18,2022
-"Theft reports taken",2,2022-09-12,2022-09-18,2022
-"Unlocks",76,2022-09-12,2022-09-18,2022
-"Vehicle patrols",230,2022-09-12,2022-09-18,2022
-"Vehicle assistance responses",0,2022-09-12,2022-09-18,2022
-"Welfare check responses",0,2022-09-12,2022-09-18,2022
-"Alarm checks",10,2022-09-05,2022-09-11,2022
-"Animal issue responses",0,2022-09-05,2022-09-11,2022
-"AOD interactions",2,2022-09-05,2022-09-11,2022
-"Building patrols",144,2022-09-05,2022-09-11,2022
-"Candle/incense violation interactions",0,2022-09-05,2022-09-11,2022
-"Community assistance responses",2,2022-09-05,2022-09-11,2022
-"Escorts",2,2022-09-05,2022-09-11,2022
-"Fire responses",0,2022-09-05,2022-09-11,2022
-"Foot patrols",170,2022-09-05,2022-09-11,2022
-"Held door checks",13,2022-09-05,2022-09-11,2022
-"Maintenance issue responses",1,2022-09-05,2022-09-11,2022
-"Medical assistance responses",6,2022-09-05,2022-09-11,2022
-"Noise complaint responses",0,2022-09-05,2022-09-11,2022
-"Suspicious circumstance responses",6,2022-09-05,2022-09-11,2022
-"Theft reports taken",0,2022-09-05,2022-09-11,2022
-"Unlocks",119,2022-09-05,2022-09-11,2022
-"Vehicle patrols",209,2022-09-05,2022-09-11,2022
-"Vehicle assistance responses",2,2022-09-05,2022-09-11,2022
-"Welfare check responses",2,2022-09-05,2022-09-11,2022
-"Alarm checks",3,2022-08-29,2022-09-04,2022
-"Animal issue responses",0,2022-08-29,2022-09-04,2022
-"AOD interactions",0,2022-08-29,2022-09-04,2022
-"Building patrols",124,2022-08-29,2022-09-04,2022
-"Candle/incense violation interactions",0,2022-08-29,2022-09-04,2022
-"Community assistance responses",8,2022-08-29,2022-09-04,2022
-"Escorts",5,2022-08-29,2022-09-04,2022
-"Fire responses",0,2022-08-29,2022-09-04,2022
-"Foot patrols",204,2022-08-29,2022-09-04,2022
-"Held door checks",10,2022-08-29,2022-09-04,2022
-"Maintenance issue responses",0,2022-08-29,2022-09-04,2022
-"Medical assistance responses",7,2022-08-29,2022-09-04,2022
-"Noise complaint responses",1,2022-08-29,2022-09-04,2022
-"Suspicious circumstance responses",12,2022-08-29,2022-09-04,2022
-"Theft reports taken",0,2022-08-29,2022-09-04,2022
-"Unlocks",121,2022-08-29,2022-09-04,2022
-"Vehicle patrols",194,2022-08-29,2022-09-04,2022
-"Vehicle assistance responses",2,2022-08-29,2022-09-04,2022
-"Welfare check responses",3,2022-08-29,2022-09-04,2022
-"Alarm checks",10,2022-08-22,2022-08-28,2022
-"Animal issue responses",1,2022-08-22,2022-08-28,2022
-"AOD interactions",4,2022-08-22,2022-08-28,2022
-"Building patrols",193,2022-08-22,2022-08-28,2022
-"Candle/incense violation interactions",0,2022-08-22,2022-08-28,2022
-"Community assistance responses",3,2022-08-22,2022-08-28,2022
-"Escorts",8,2022-08-22,2022-08-28,2022
-"Fire responses",0,2022-08-22,2022-08-28,2022
-"Foot patrols",372,2022-08-22,2022-08-28,2022
-"Held door checks",14,2022-08-22,2022-08-28,2022
-"Maintenance issue responses",2,2022-08-22,2022-08-28,2022
-"Medical assistance responses",8,2022-08-22,2022-08-28,2022
-"Noise complaint responses",3,2022-08-22,2022-08-28,2022
-"Suspicious circumstance responses",16,2022-08-22,2022-08-28,2022
-"Theft reports taken",3,2022-08-22,2022-08-28,2022
-"Unlocks",178,2022-08-22,2022-08-28,2022
-"Vehicle patrols",247,2022-08-22,2022-08-28,2022
-"Vehicle assistance responses",2,2022-08-22,2022-08-28,2022
-"Welfare check responses",1,2022-08-22,2022-08-28,2022
-"Alarm checks",4,2022-08-15,2022-08-21,2022
-"Animal issue responses",0,2022-08-15,2022-08-21,2022
-"AOD interactions",1,2022-08-15,2022-08-21,2022
-"Building patrols",175,2022-08-15,2022-08-21,2022
-"Candle/incense violation interactions",0,2022-08-15,2022-08-21,2022
-"Community assistance responses",3,2022-08-15,2022-08-21,2022
-"Escorts",6,2022-08-15,2022-08-21,2022
-"Fire responses",0,2022-08-15,2022-08-21,2022
-"Foot patrols",241,2022-08-15,2022-08-21,2022
-"Held door checks",8,2022-08-15,2022-08-21,2022
-"Maintenance issue responses",2,2022-08-15,2022-08-21,2022
-"Medical assistance responses",2,2022-08-15,2022-08-21,2022
-"Noise complaint responses",0,2022-08-15,2022-08-21,2022
-"Suspicious circumstance responses",5,2022-08-15,2022-08-21,2022
-"Theft reports taken",3,2022-08-15,2022-08-21,2022
-"Unlocks",49,2022-08-15,2022-08-21,2022
-"Vehicle patrols",198,2022-08-15,2022-08-21,2022
-"Vehicle assistance responses",1,2022-08-15,2022-08-21,2022
-"Welfare check responses",0,2022-08-15,2022-08-21,2022
-"Alarm checks",10,2022-08-08,2022-08-14,2022
-"Animal issue responses",0,2022-08-08,2022-08-14,2022
-"AOD interactions",2,2022-08-08,2022-08-14,2022
-"Building patrols",136,2022-08-08,2022-08-14,2022
-"Candle/incense violation interactions",0,2022-08-08,2022-08-14,2022
-"Community assistance responses",0,2022-08-08,2022-08-14,2022
-"Escorts",0,2022-08-08,2022-08-14,2022
-"Fire responses",0,2022-08-08,2022-08-14,2022
-"Foot patrols",243,2022-08-08,2022-08-14,2022
-"Held door checks",8,2022-08-08,2022-08-14,2022
-"Maintenance issue responses",2,2022-08-08,2022-08-14,2022
-"Medical assistance responses",0,2022-08-08,2022-08-14,2022
-"Noise complaint responses",0,2022-08-08,2022-08-14,2022
-"Suspicious circumstance responses",9,2022-08-08,2022-08-14,2022
-"Theft reports taken",0,2022-08-08,2022-08-14,2022
-"Unlocks",64,2022-08-08,2022-08-14,2022
-"Vehicle patrols",183,2022-08-08,2022-08-14,2022
-"Vehicle assistance responses",1,2022-08-08,2022-08-14,2022
-"Welfare check responses",0,2022-08-08,2022-08-14,2022
-"Alarm checks",3,2022-08-01,2022-08-07,2022
-"Animal issue responses",0,2022-08-01,2022-08-07,2022
-"AOD interactions",0,2022-08-01,2022-08-07,2022
-"Building patrols",92,2022-08-01,2022-08-07,2022
-"Candle/incense violation interactions",0,2022-08-01,2022-08-07,2022
-"Community assistance responses",0,2022-08-01,2022-08-07,2022
-"Escorts",1,2022-08-01,2022-08-07,2022
-"Fire responses",0,2022-08-01,2022-08-07,2022
-"Foot patrols",209,2022-08-01,2022-08-07,2022
-"Held door checks",11,2022-08-01,2022-08-07,2022
-"Maintenance issue responses",1,2022-08-01,2022-08-07,2022
-"Medical assistance responses",0,2022-08-01,2022-08-07,2022
-"Noise complaint responses",0,2022-08-01,2022-08-07,2022
-"Suspicious circumstance responses",10,2022-08-01,2022-08-07,2022
-"Theft reports taken",2,2022-08-01,2022-08-07,2022
-"Unlocks",59,2022-08-01,2022-08-07,2022
-"Vehicle patrols",174,2022-08-01,2022-08-07,2022
-"Vehicle assistance responses",1,2022-08-01,2022-08-07,2022
-"Welfare check responses",0,2022-08-01,2022-08-07,2022
-"Alarm checks",6,2022-07-25,2022-07-31,2022
-"Animal issue responses",0,2022-07-25,2022-07-31,2022
-"AOD interactions",1,2022-07-25,2022-07-31,2022
-"Building patrols",153,2022-07-25,2022-07-31,2022
-"Candle/incense violation interactions",0,2022-07-25,2022-07-31,2022
-"Community assistance responses",1,2022-07-25,2022-07-31,2022
-"Escorts",0,2022-07-25,2022-07-31,2022
-"Fire responses",0,2022-07-25,2022-07-31,2022
-"Foot patrols",215,2022-07-25,2022-07-31,2022
-"Held door checks",1,2022-07-25,2022-07-31,2022
-"Maintenance issue responses",0,2022-07-25,2022-07-31,2022
-"Medical assistance responses",0,2022-07-25,2022-07-31,2022
-"Noise complaint responses",0,2022-07-25,2022-07-31,2022
-"Suspicious circumstance responses",16,2022-07-25,2022-07-31,2022
-"Theft reports taken",2,2022-07-25,2022-07-31,2022
-"Unlocks",30,2022-07-25,2022-07-31,2022
-"Vehicle patrols",188,2022-07-25,2022-07-31,2022
-"Vehicle assistance responses",1,2022-07-25,2022-07-31,2022
-"Welfare check responses",0,2022-07-25,2022-07-31,2022
-"Alarm checks",5,2022-07-18,2022-07-24,2022
-"Animal issue responses",0,2022-07-18,2022-07-24,2022
-"AOD interactions",1,2022-07-18,2022-07-24,2022
-"Building patrols",134,2022-07-18,2022-07-24,2022
-"Candle/incense violation interactions",0,2022-07-18,2022-07-24,2022
-"Community assistance responses",1,2022-07-18,2022-07-24,2022
-"Escorts",1,2022-07-18,2022-07-24,2022
-"Fire responses",0,2022-07-18,2022-07-24,2022
-"Foot patrols",201,2022-07-18,2022-07-24,2022
-"Held door checks",2,2022-07-18,2022-07-24,2022
-"Maintenance issue responses",3,2022-07-18,2022-07-24,2022
-"Medical assistance responses",2,2022-07-18,2022-07-24,2022
-"Noise complaint responses",0,2022-07-18,2022-07-24,2022
-"Suspicious circumstance responses",18,2022-07-18,2022-07-24,2022
-"Theft reports taken",2,2022-07-18,2022-07-24,2022
-"Unlocks",16,2022-07-18,2022-07-24,2022
-"Vehicle patrols",2,2022-07-18,2022-07-24,2022
-"Vehicle assistance responses",1,2022-07-18,2022-07-24,2022
-"Welfare check responses",2,2022-07-18,2022-07-24,2022
-"Alarm checks",8,2022-07-11,2022-07-17,2022
-"Animal issue responses",0,2022-07-11,2022-07-17,2022
-"AOD interactions",3,2022-07-11,2022-07-17,2022
-"Building patrols",145,2022-07-11,2022-07-17,2022
-"Candle/incense violation interactions",0,2022-07-11,2022-07-17,2022
-"Community assistance responses",3,2022-07-11,2022-07-17,2022
-"Escorts",1,2022-07-11,2022-07-17,2022
-"Fire responses",0,2022-07-11,2022-07-17,2022
-"Foot patrols",265,2022-07-11,2022-07-17,2022
-"Held door checks",14,2022-07-11,2022-07-17,2022
-"Maintenance issue responses",6,2022-07-11,2022-07-17,2022
-"Medical assistance responses",2,2022-07-11,2022-07-17,2022
-"Noise complaint responses",0,2022-07-11,2022-07-17,2022
-"Suspicious circumstance responses",12,2022-07-11,2022-07-17,2022
-"Theft reports taken",0,2022-07-11,2022-07-17,2022
-"Unlocks",56,2022-07-11,2022-07-17,2022
-"Vehicle patrols",185,2022-07-11,2022-07-17,2022
-"Vehicle assistance responses",0,2022-07-11,2022-07-17,2022
-"Welfare check responses",0,2022-07-11,2022-07-17,2022
-"Alarm checks",7,2022-07-04,2022-07-10,2022
-"Animal issue responses",0,2022-07-04,2022-07-10,2022
-"AOD interactions",0,2022-07-04,2022-07-10,2022
-"Building patrols",169,2022-07-04,2022-07-10,2022
-"Candle/incense violation interactions",0,2022-07-04,2022-07-10,2022
-"Community assistance responses",0,2022-07-04,2022-07-10,2022
-"Escorts",4,2022-07-04,2022-07-10,2022
-"Fire responses",0,2022-07-04,2022-07-10,2022
-"Foot patrols",308,2022-07-04,2022-07-10,2022
-"Held door checks",7,2022-07-04,2022-07-10,2022
-"Maintenance issue responses",0,2022-07-04,2022-07-10,2022
-"Medical assistance responses",0,2022-07-04,2022-07-10,2022
-"Noise complaint responses",0,2022-07-04,2022-07-10,2022
-"Suspicious circumstance responses",11,2022-07-04,2022-07-10,2022
-"Theft reports taken",0,2022-07-04,2022-07-10,2022
-"Unlocks",50,2022-07-04,2022-07-10,2022
-"Vehicle patrols",248,2022-07-04,2022-07-10,2022
-"Vehicle assistance responses",0,2022-07-04,2022-07-10,2022
-"Welfare check responses",0,2022-07-04,2022-07-10,2022
-"Alarm checks",6,2022-06-27,2022-07-03,2022
-"Animal issue responses",0,2022-06-27,2022-07-03,2022
-"AOD interactions",0,2022-06-27,2022-07-03,2022
-"Building patrols",142,2022-06-27,2022-07-03,2022
-"Candle/incense violation interactions",0,2022-06-27,2022-07-03,2022
-"Community assistance responses",0,2022-06-27,2022-07-03,2022
-"Escorts",0,2022-06-27,2022-07-03,2022
-"Fire responses",0,2022-06-27,2022-07-03,2022
-"Foot patrols",225,2022-06-27,2022-07-03,2022
-"Held door checks",4,2022-06-27,2022-07-03,2022
-"Maintenance issue responses",0,2022-06-27,2022-07-03,2022
-"Medical assistance responses",0,2022-06-27,2022-07-03,2022
-"Noise complaint responses",1,2022-06-27,2022-07-03,2022
-"Suspicious circumstance responses",9,2022-06-27,2022-07-03,2022
-"Theft reports taken",0,2022-06-27,2022-07-03,2022
-"Unlocks",49,2022-06-27,2022-07-03,2022
-"Vehicle patrols",191,2022-06-27,2022-07-03,2022
-"Vehicle assistance responses",0,2022-06-27,2022-07-03,2022
-"Welfare check responses",0,2022-06-27,2022-07-03,2022
-"Alarm checks",5,2022-06-20,2022-06-26,2022
-"Animal issue responses",0,2022-06-20,2022-06-26,2022
-"AOD interactions",0,2022-06-20,2022-06-26,2022
-"Building patrols",132,2022-06-20,2022-06-26,2022
-"Candle/incense violation interactions",0,2022-06-20,2022-06-26,2022
-"Community assistance responses",2,2022-06-20,2022-06-26,2022
-"Escorts",0,2022-06-20,2022-06-26,2022
-"Fire responses",0,2022-06-20,2022-06-26,2022
-"Foot patrols",259,2022-06-20,2022-06-26,2022
-"Held door checks",11,2022-06-20,2022-06-26,2022
-"Maintenance issue responses",0,2022-06-20,2022-06-26,2022
-"Medical assistance responses",0,2022-06-20,2022-06-26,2022
-"Noise complaint responses",0,2022-06-20,2022-06-26,2022
-"Suspicious circumstance responses",5,2022-06-20,2022-06-26,2022
-"Theft reports taken",0,2022-06-20,2022-06-26,2022
-"Unlocks",37,2022-06-20,2022-06-26,2022
-"Vehicle patrols",200,2022-06-20,2022-06-26,2022
-"Vehicle assistance responses",1,2022-06-20,2022-06-26,2022
-"Welfare check responses",0,2022-06-20,2022-06-26,2022
-"Alarm checks",7,2022-06-13,2022-06-19,2022
-"Animal issue responses",0,2022-06-13,2022-06-19,2022
-"AOD interactions",0,2022-06-13,2022-06-19,2022
-"Building patrols",152,2022-06-13,2022-06-19,2022
-"Candle/incense violation interactions",0,2022-06-13,2022-06-19,2022
-"Community assistance responses",0,2022-06-13,2022-06-19,2022
-"Escorts",1,2022-06-13,2022-06-19,2022
-"Fire responses",0,2022-06-13,2022-06-19,2022
-"Foot patrols",256,2022-06-13,2022-06-19,2022
-"Held door checks",3,2022-06-13,2022-06-19,2022
-"Maintenance issue responses",2,2022-06-13,2022-06-19,2022
-"Medical assistance responses",0,2022-06-13,2022-06-19,2022
-"Noise complaint responses",0,2022-06-13,2022-06-19,2022
-"Suspicious circumstance responses",5,2022-06-13,2022-06-19,2022
-"Theft reports taken",3,2022-06-13,2022-06-19,2022
-"Unlocks",20,2022-06-13,2022-06-19,2022
-"Vehicle patrols",152,2022-06-13,2022-06-19,2022
-"Vehicle assistance responses",0,2022-06-13,2022-06-19,2022
-"Welfare check responses",0,2022-06-13,2022-06-19,2022
-"Alarm checks",6,2022-06-06,2022-06-12,2022
-"Animal issue responses",0,2022-06-06,2022-06-12,2022
-"AOD interactions",0,2022-06-06,2022-06-12,2022
-"Building patrols",184,2022-06-06,2022-06-12,2022
-"Candle/incense violation interactions",0,2022-06-06,2022-06-12,2022
-"Community assistance responses",0,2022-06-06,2022-06-12,2022
-"Escorts",5,2022-06-06,2022-06-12,2022
-"Fire responses",1,2022-06-06,2022-06-12,2022
-"Foot patrols",282,2022-06-06,2022-06-12,2022
-"Held door checks",9,2022-06-06,2022-06-12,2022
-"Maintenance issue responses",2,2022-06-06,2022-06-12,2022
-"Medical assistance responses",0,2022-06-06,2022-06-12,2022
-"Noise complaint responses",1,2022-06-06,2022-06-12,2022
-"Suspicious circumstance responses",18,2022-06-06,2022-06-12,2022
-"Theft reports taken",0,2022-06-06,2022-06-12,2022
-"Unlocks",59,2022-06-06,2022-06-12,2022
-"Vehicle patrols",205,2022-06-06,2022-06-12,2022
-"Vehicle assistance responses",3,2022-06-06,2022-06-12,2022
-"Welfare check responses",0,2022-06-06,2022-06-12,2022
-"Alarm checks",8,2022-05-30,2022-06-05,2022
-"Animal issue responses",0,2022-05-30,2022-06-05,2022
-"AOD interactions",0,2022-05-30,2022-06-05,2022
-"Building patrols",219,2022-05-30,2022-06-05,2022
-"Candle/incense violation interactions",0,2022-05-30,2022-06-05,2022
-"Community assistance responses",1,2022-05-30,2022-06-05,2022
-"Escorts",1,2022-05-30,2022-06-05,2022
-"Fire responses",0,2022-05-30,2022-06-05,2022
-"Foot patrols",237,2022-05-30,2022-06-05,2022
-"Held door checks",2,2022-05-30,2022-06-05,2022
-"Maintenance issue responses",0,2022-05-30,2022-06-05,2022
-"Medical assistance responses",0,2022-05-30,2022-06-05,2022
-"Noise complaint responses",0,2022-05-30,2022-06-05,2022
-"Suspicious circumstance responses",14,2022-05-30,2022-06-05,2022
-"Theft reports taken",0,2022-05-30,2022-06-05,2022
-"Unlocks",22,2022-05-30,2022-06-05,2022
-"Vehicle patrols",150,2022-05-30,2022-06-05,2022
-"Vehicle assistance responses",2,2022-05-30,2022-06-05,2022
-"Welfare check responses",1,2022-05-30,2022-06-05,2022
-"Alarm checks",6,2022-05-23,2022-05-29,2022
-"Animal issue responses",0,2022-05-23,2022-05-29,2022
-"AOD interactions",1,2022-05-23,2022-05-29,2022
-"Building patrols",192,2022-05-23,2022-05-29,2022
-"Candle/incense violation interactions",0,2022-05-23,2022-05-29,2022
-"Community assistance responses",2,2022-05-23,2022-05-29,2022
-"Escorts",0,2022-05-23,2022-05-29,2022
-"Fire responses",0,2022-05-23,2022-05-29,2022
-"Foot patrols",260,2022-05-23,2022-05-29,2022
-"Held door checks",3,2022-05-23,2022-05-29,2022
-"Maintenance issue responses",0,2022-05-23,2022-05-29,2022
-"Medical assistance responses",0,2022-05-23,2022-05-29,2022
-"Noise complaint responses",1,2022-05-23,2022-05-29,2022
-"Suspicious circumstance responses",19,2022-05-23,2022-05-29,2022
-"Theft reports taken",1,2022-05-23,2022-05-29,2022
-"Unlocks",24,2022-05-23,2022-05-29,2022
-"Vehicle patrols",175,2022-05-23,2022-05-29,2022
-"Vehicle assistance responses",0,2022-05-23,2022-05-29,2022
-"Welfare check responses",0,2022-05-23,2022-05-29,2022
-"Alarm checks",5,2022-05-16,2022-05-22,2022
-"Animal issue responses",0,2022-05-16,2022-05-22,2022
-"AOD interactions",3,2022-05-16,2022-05-22,2022
-"Building patrols",209,2022-05-16,2022-05-22,2022
-"Candle/incense violation interactions",0,2022-05-16,2022-05-22,2022
-"Community assistance responses",5,2022-05-16,2022-05-22,2022
-"Escorts",3,2022-05-16,2022-05-22,2022
-"Fire responses",0,2022-05-16,2022-05-22,2022
-"Foot patrols",313,2022-05-16,2022-05-22,2022
-"Held door checks",5,2022-05-16,2022-05-22,2022
-"Maintenance issue responses",3,2022-05-16,2022-05-22,2022
-"Medical assistance responses",1,2022-05-16,2022-05-22,2022
-"Noise complaint responses",0,2022-05-16,2022-05-22,2022
-"Suspicious circumstance responses",16,2022-05-16,2022-05-22,2022
-"Theft reports taken",1,2022-05-16,2022-05-22,2022
-"Unlocks",47,2022-05-16,2022-05-22,2022
-"Vehicle patrols",207,2022-05-16,2022-05-22,2022
-"Vehicle assistance responses",3,2022-05-16,2022-05-22,2022
-"Welfare check responses",1,2022-05-16,2022-05-22,2022
-"Alarm checks",16,2022-05-09,2022-05-15,2022
-"Animal issue responses",0,2022-05-09,2022-05-15,2022
-"AOD interactions",0,2022-05-09,2022-05-15,2022
-"Building patrols",134,2022-05-09,2022-05-15,2022
-"Candle/incense violation interactions",0,2022-05-09,2022-05-15,2022
-"Community assistance responses",2,2022-05-09,2022-05-15,2022
-"Escorts",2,2022-05-09,2022-05-15,2022
-"Fire responses",0,2022-05-09,2022-05-15,2022
-"Foot patrols",372,2022-05-09,2022-05-15,2022
-"Held door checks",10,2022-05-09,2022-05-15,2022
-"Maintenance issue responses",4,2022-05-09,2022-05-15,2022
-"Medical assistance responses",3,2022-05-09,2022-05-15,2022
-"Noise complaint responses",0,2022-05-09,2022-05-15,2022
-"Suspicious circumstance responses",4,2022-05-09,2022-05-15,2022
-"Theft reports taken",1,2022-05-09,2022-05-15,2022
-"Unlocks",74,2022-05-09,2022-05-15,2022
-"Vehicle patrols",227,2022-05-09,2022-05-15,2022
-"Vehicle assistance responses",3,2022-05-09,2022-05-15,2022
-"Welfare check responses",0,2022-05-09,2022-05-15,2022
-"Alarm checks",9,2022-05-02,2022-05-08,2022
-"Animal issue responses",0,2022-05-02,2022-05-08,2022
-"AOD interactions",0,2022-05-02,2022-05-08,2022
-"Building patrols",123,2022-05-02,2022-05-08,2022
-"Candle/incense violation interactions",0,2022-05-02,2022-05-08,2022
-"Community assistance responses",2,2022-05-02,2022-05-08,2022
-"Escorts",5,2022-05-02,2022-05-08,2022
-"Fire responses",0,2022-05-02,2022-05-08,2022
-"Foot patrols",281,2022-05-02,2022-05-08,2022
-"Held door checks",3,2022-05-02,2022-05-08,2022
-"Maintenance issue responses",1,2022-05-02,2022-05-08,2022
-"Medical assistance responses",1,2022-05-02,2022-05-08,2022
-"Noise complaint responses",3,2022-05-02,2022-05-08,2022
-"Suspicious circumstance responses",11,2022-05-02,2022-05-08,2022
-"Theft reports taken",0,2022-05-02,2022-05-08,2022
-"Unlocks",61,2022-05-02,2022-05-08,2022
-"Vehicle patrols",240,2022-05-02,2022-05-08,2022
-"Vehicle assistance responses",1,2022-05-02,2022-05-08,2022
-"Welfare check responses",0,2022-05-02,2022-05-08,2022
-"Alarm checks",9,2022-04-25,2022-05-01,2022
-"Animal issue responses",0,2022-04-25,2022-05-01,2022
-"AOD interactions",14,2022-04-25,2022-05-01,2022
-"Building patrols",107,2022-04-25,2022-05-01,2022
-"Candle/incense violation interactions",0,2022-04-25,2022-05-01,2022
-"Community assistance responses",5,2022-04-25,2022-05-01,2022
-"Escorts",5,2022-04-25,2022-05-01,2022
-"Fire responses",0,2022-04-25,2022-05-01,2022
-"Foot patrols",409,2022-04-25,2022-05-01,2022
-"Held door checks",20,2022-04-25,2022-05-01,2022
-"Maintenance issue responses",6,2022-04-25,2022-05-01,2022
-"Medical assistance responses",4,2022-04-25,2022-05-01,2022
-"Noise complaint responses",1,2022-04-25,2022-05-01,2022
-"Suspicious circumstance responses",22,2022-04-25,2022-05-01,2022
-"Theft reports taken",0,2022-04-25,2022-05-01,2022
-"Unlocks",85,2022-04-25,2022-05-01,2022
-"Vehicle patrols",241,2022-04-25,2022-05-01,2022
-"Vehicle assistance responses",0,2022-04-25,2022-05-01,2022
-"Welfare check responses",2,2022-04-25,2022-05-01,2022
-"Alarm checks",11,2022-04-18,2022-04-24,2022
-"Animal issue responses",0,2022-04-18,2022-04-24,2022
-"AOD interactions",1,2022-04-18,2022-04-24,2022
-"Building patrols",129,2022-04-18,2022-04-24,2022
-"Candle/incense violation interactions",0,2022-04-18,2022-04-24,2022
-"Community assistance responses",3,2022-04-18,2022-04-24,2022
-"Escorts",3,2022-04-18,2022-04-24,2022
-"Fire responses",0,2022-04-18,2022-04-24,2022
-"Foot patrols",284,2022-04-18,2022-04-24,2022
-"Held door checks",11,2022-04-18,2022-04-24,2022
-"Maintenance issue responses",4,2022-04-18,2022-04-24,2022
-"Medical assistance responses",4,2022-04-18,2022-04-24,2022
-"Noise complaint responses",3,2022-04-18,2022-04-24,2022
-"Suspicious circumstance responses",12,2022-04-18,2022-04-24,2022
-"Theft reports taken",0,2022-04-18,2022-04-24,2022
-"Unlocks",67,2022-04-18,2022-04-24,2022
-"Vehicle patrols",231,2022-04-18,2022-04-24,2022
-"Vehicle assistance responses",2,2022-04-18,2022-04-24,2022
-"Welfare check responses",0,2022-04-18,2022-04-24,2022
-"Alarm checks",6,2022-03-28,2022-04-03,2022
-"Animal issue responses",0,2022-03-28,2022-04-03,2022
-"AOD interactions",1,2022-03-28,2022-04-03,2022
-"Building patrols",179,2022-03-28,2022-04-03,2022
-"Candle/incense violation interactions",0,2022-03-28,2022-04-03,2022
-"Community assistance responses",2,2022-03-28,2022-04-03,2022
-"Escorts",4,2022-03-28,2022-04-03,2022
-"Fire responses",0,2022-03-28,2022-04-03,2022
-"Foot patrols",368,2022-03-28,2022-04-03,2022
-"Held door checks",7,2022-03-28,2022-04-03,2022
-"Maintenance issue responses",1,2022-03-28,2022-04-03,2022
-"Medical assistance responses",9,2022-03-28,2022-04-03,2022
-"Noise complaint responses",1,2022-03-28,2022-04-03,2022
-"Suspicious circumstance responses",21,2022-03-28,2022-04-03,2022
-"Theft reports taken",3,2022-03-28,2022-04-03,2022
-"Unlocks",90,2022-03-28,2022-04-03,2022
-"Vehicle patrols",311,2022-03-28,2022-04-03,2022
-"Vehicle assistance responses",3,2022-03-28,2022-04-03,2022
-"Welfare check responses",1,2022-03-28,2022-04-03,2022
-"Alarm checks",7,2022-03-21,2022-03-27,2022
-"Animal issue responses",0,2022-03-21,2022-03-27,2022
-"AOD interactions",0,2022-03-21,2022-03-27,2022
-"Building patrols",174,2022-03-21,2022-03-27,2022
-"Candle/incense violation interactions",0,2022-03-21,2022-03-27,2022
-"Community assistance responses",0,2022-03-21,2022-03-27,2022
-"Escorts",1,2022-03-21,2022-03-27,2022
-"Fire responses",0,2022-03-21,2022-03-27,2022
-"Foot patrols",329,2022-03-21,2022-03-27,2022
-"Held door checks",5,2022-03-21,2022-03-27,2022
-"Maintenance issue responses",2,2022-03-21,2022-03-27,2022
-"Medical assistance responses",0,2022-03-21,2022-03-27,2022
-"Noise complaint responses",0,2022-03-21,2022-03-27,2022
-"Suspicious circumstance responses",11,2022-03-21,2022-03-27,2022
-"Theft reports taken",1,2022-03-21,2022-03-27,2022
-"Unlocks",46,2022-03-21,2022-03-27,2022
-"Vehicle patrols",255,2022-03-21,2022-03-27,2022
-"Vehicle assistance responses",1,2022-03-21,2022-03-27,2022
-"Welfare check responses",NA,2022-03-21,2022-03-27,2022
-"Alarm checks",8,2022-03-07,2022-03-13,2022
-"Animal issue responses",0,2022-03-07,2022-03-13,2022
-"AOD interactions",2,2022-03-07,2022-03-13,2022
-"Building patrols",166,2022-03-07,2022-03-13,2022
-"Candle/incense violation interactions",0,2022-03-07,2022-03-13,2022
-"Community assistance responses",0,2022-03-07,2022-03-13,2022
-"Escorts",1,2022-03-07,2022-03-13,2022
-"Fire responses",0,2022-03-07,2022-03-13,2022
-"Foot patrols",441,2022-03-07,2022-03-13,2022
-"Held door checks",2,2022-03-07,2022-03-13,2022
-"Maintenance issue responses",0,2022-03-07,2022-03-13,2022
-"Medical assistance responses",1,2022-03-07,2022-03-13,2022
-"Noise complaint responses",0,2022-03-07,2022-03-13,2022
-"Suspicious circumstance responses",5,2022-03-07,2022-03-13,2022
-"Theft reports taken",0,2022-03-07,2022-03-13,2022
-"Unlocks",67,2022-03-07,2022-03-13,2022
-"Vehicle patrols",241,2022-03-07,2022-03-13,2022
-"Vehicle assistance responses",4,2022-03-07,2022-03-13,2022
-"Welfare check responses",0,2022-03-07,2022-03-13,2022
-"Alarm checks",8,2022-02-28,2022-03-06,2022
-"Animal issue responses",0,2022-02-28,2022-03-06,2022
-"AOD interactions",2,2022-02-28,2022-03-06,2022
-"Building patrols",172,2022-02-28,2022-03-06,2022
-"Candle/incense violation interactions",0,2022-02-28,2022-03-06,2022
-"Community assistance responses",0,2022-02-28,2022-03-06,2022
-"Escorts",5,2022-02-28,2022-03-06,2022
-"Fire responses",0,2022-02-28,2022-03-06,2022
-"Foot patrols",349,2022-02-28,2022-03-06,2022
-"Held door checks",11,2022-02-28,2022-03-06,2022
-"Maintenance issue responses",2,2022-02-28,2022-03-06,2022
-"Medical assistance responses",2,2022-02-28,2022-03-06,2022
-"Noise complaint responses",1,2022-02-28,2022-03-06,2022
-"Suspicious circumstance responses",16,2022-02-28,2022-03-06,2022
-"Theft reports taken",1,2022-02-28,2022-03-06,2022
-"Unlocks",74,2022-02-28,2022-03-06,2022
-"Vehicle patrols",254,2022-02-28,2022-03-06,2022
-"Vehicle assistance responses",6,2022-02-28,2022-03-06,2022
-"Welfare check responses",0,2022-02-28,2022-03-06,2022
-"Alarm checks",9,2022-02-21,2022-02-27,2022
-"Animal issue responses",0,2022-02-21,2022-02-27,2022
-"AOD interactions",1,2022-02-21,2022-02-27,2022
-"Building patrols",161,2022-02-21,2022-02-27,2022
-"Candle/incense violation interactions",0,2022-02-21,2022-02-27,2022
-"Community assistance responses",0,2022-02-21,2022-02-27,2022
-"Escorts",5,2022-02-21,2022-02-27,2022
-"Fire responses",0,2022-02-21,2022-02-27,2022
-"Foot patrols",291,2022-02-21,2022-02-27,2022
-"Held door checks",3,2022-02-21,2022-02-27,2022
-"Maintenance issue responses",5,2022-02-21,2022-02-27,2022
-"Medical assistance responses",3,2022-02-21,2022-02-27,2022
-"Noise complaint responses",0,2022-02-21,2022-02-27,2022
-"Suspicious circumstance responses",14,2022-02-21,2022-02-27,2022
-"Theft reports taken",5,2022-02-21,2022-02-27,2022
-"Unlocks",95,2022-02-21,2022-02-27,2022
-"Vehicle patrols",243,2022-02-21,2022-02-27,2022
-"Vehicle assistance responses",3,2022-02-21,2022-02-27,2022
-"Welfare check responses",1,2022-02-21,2022-02-27,2022
-"Alarm checks",9,2022-02-14,2022-02-20,2022
-"Animal issue responses",1,2022-02-14,2022-02-20,2022
-"AOD interactions",0,2022-02-14,2022-02-20,2022
-"Building patrols",156,2022-02-14,2022-02-20,2022
-"Candle/incense violation interactions",0,2022-02-14,2022-02-20,2022
-"Community assistance responses",1,2022-02-14,2022-02-20,2022
-"Escorts",3,2022-02-14,2022-02-20,2022
-"Fire responses",0,2022-02-14,2022-02-20,2022
-"Foot patrols",343,2022-02-14,2022-02-20,2022
-"Held door checks",4,2022-02-14,2022-02-20,2022
-"Maintenance issue responses",1,2022-02-14,2022-02-20,2022
-"Medical assistance responses",4,2022-02-14,2022-02-20,2022
-"Noise complaint responses",3,2022-02-14,2022-02-20,2022
-"Suspicious circumstance responses",13,2022-02-14,2022-02-20,2022
-"Theft reports taken",0,2022-02-14,2022-02-20,2022
-"Unlocks",63,2022-02-14,2022-02-20,2022
-"Vehicle patrols",256,2022-02-14,2022-02-20,2022
-"Vehicle assistance responses",6,2022-02-14,2022-02-20,2022
-"Welfare check responses",2,2022-02-14,2022-02-20,2022
-"Alarm checks",8,2022-02-07,2022-02-13,2022
-"Animal issue responses",0,2022-02-07,2022-02-13,2022
-"AOD interactions",0,2022-02-07,2022-02-13,2022
-"Building patrols",156,2022-02-07,2022-02-13,2022
-"Candle/incense violation interactions",0,2022-02-07,2022-02-13,2022
-"Community assistance responses",0,2022-02-07,2022-02-13,2022
-"Escorts",2,2022-02-07,2022-02-13,2022
-"Fire responses",0,2022-02-07,2022-02-13,2022
-"Foot patrols",429,2022-02-07,2022-02-13,2022
-"Held door checks",6,2022-02-07,2022-02-13,2022
-"Maintenance issue responses",0,2022-02-07,2022-02-13,2022
-"Medical assistance responses",0,2022-02-07,2022-02-13,2022
-"Noise complaint responses",1,2022-02-07,2022-02-13,2022
-"Suspicious circumstance responses",17,2022-02-07,2022-02-13,2022
-"Theft reports taken",0,2022-02-07,2022-02-13,2022
-"Unlocks",74,2022-02-07,2022-02-13,2022
-"Vehicle patrols",281,2022-02-07,2022-02-13,2022
-"Vehicle assistance responses",6,2022-02-07,2022-02-13,2022
-"Welfare check responses",0,2022-02-07,2022-02-13,2022
-"Alarm checks",11,2022-01-31,2022-02-06,2022
-"Animal issue responses",0,2022-01-31,2022-02-06,2022
-"AOD interactions",0,2022-01-31,2022-02-06,2022
-"Building patrols",138,2022-01-31,2022-02-06,2022
-"Candle/incense violation interactions",0,2022-01-31,2022-02-06,2022
-"Community assistance responses",0,2022-01-31,2022-02-06,2022
-"Escorts",2,2022-01-31,2022-02-06,2022
-"Fire responses",0,2022-01-31,2022-02-06,2022
-"Foot patrols",339,2022-01-31,2022-02-06,2022
-"Held door checks",3,2022-01-31,2022-02-06,2022
-"Maintenance issue responses",1,2022-01-31,2022-02-06,2022
-"Medical assistance responses",1,2022-01-31,2022-02-06,2022
-"Noise complaint responses",2,2022-01-31,2022-02-06,2022
-"Suspicious circumstance responses",9,2022-01-31,2022-02-06,2022
-"Theft reports taken",0,2022-01-31,2022-02-06,2022
-"Unlocks",63,2022-01-31,2022-02-06,2022
-"Vehicle patrols",220,2022-01-31,2022-02-06,2022
-"Vehicle assistance responses",4,2022-01-31,2022-02-06,2022
-"Welfare check responses",0,2022-01-31,2022-02-06,2022
-"Alarm checks",5,2022-01-24,2022-01-30,2022
-"Animal issue responses",0,2022-01-24,2022-01-30,2022
-"AOD interactions",1,2022-01-24,2022-01-30,2022
-"Building patrols",152,2022-01-24,2022-01-30,2022
-"Candle/incense violation interactions",0,2022-01-24,2022-01-30,2022
-"Community assistance responses",1,2022-01-24,2022-01-30,2022
-"Escorts",0,2022-01-24,2022-01-30,2022
-"Fire responses",0,2022-01-24,2022-01-30,2022
-"Foot patrols",418,2022-01-24,2022-01-30,2022
-"Held door checks",4,2022-01-24,2022-01-30,2022
-"Maintenance issue responses",3,2022-01-24,2022-01-30,2022
-"Medical assistance responses",2,2022-01-24,2022-01-30,2022
-"Noise complaint responses",0,2022-01-24,2022-01-30,2022
-"Suspicious circumstance responses",7,2022-01-24,2022-01-30,2022
-"Theft reports taken",2,2022-01-24,2022-01-30,2022
-"Unlocks",61,2022-01-24,2022-01-30,2022
-"Vehicle patrols",210,2022-01-24,2022-01-30,2022
-"Vehicle assistance responses",3,2022-01-24,2022-01-30,2022
-"Welfare check responses",0,2022-01-24,2022-01-30,2022
-"Alarm checks",7,2022-01-17,2022-01-23,2022
-"Animal issue responses",0,2022-01-17,2022-01-23,2022
-"AOD interactions",0,2022-01-17,2022-01-23,2022
-"Building patrols",172,2022-01-17,2022-01-23,2022
-"Candle/incense violation interactions",2,2022-01-17,2022-01-23,2022
-"Community assistance responses",0,2022-01-17,2022-01-23,2022
-"Escorts",0,2022-01-17,2022-01-23,2022
-"Fire responses",0,2022-01-17,2022-01-23,2022
-"Foot patrols",427,2022-01-17,2022-01-23,2022
-"Held door checks",5,2022-01-17,2022-01-23,2022
-"Maintenance issue responses",0,2022-01-17,2022-01-23,2022
-"Medical assistance responses",0,2022-01-17,2022-01-23,2022
-"Noise complaint responses",1,2022-01-17,2022-01-23,2022
-"Suspicious circumstance responses",18,2022-01-17,2022-01-23,2022
-"Theft reports taken",2,2022-01-17,2022-01-23,2022
-"Unlocks",83,2022-01-17,2022-01-23,2022
-"Vehicle patrols",238,2022-01-17,2022-01-23,2022
-"Vehicle assistance responses",5,2022-01-17,2022-01-23,2022
-"Welfare check responses",0,2022-01-17,2022-01-23,2022
-"Alarm checks",5,2022-01-10,2022-01-16,2022
-"Animal issue responses",0,2022-01-10,2022-01-16,2022
-"AOD interactions",0,2022-01-10,2022-01-16,2022
-"Building patrols",198,2022-01-10,2022-01-16,2022
-"Community assistance responses",2,2022-01-10,2022-01-16,2022
-"Escorts",1,2022-01-10,2022-01-16,2022
-"Fire responses",0,2022-01-10,2022-01-16,2022
-"Foot patrols",420,2022-01-10,2022-01-16,2022
-"Held door checks",6,2022-01-10,2022-01-16,2022
-"Maintenance issue responses",1,2022-01-10,2022-01-16,2022
-"Medical assistance responses",0,2022-01-10,2022-01-16,2022
-"Noise complaint responses",0,2022-01-10,2022-01-16,2022
-"Suspicious circumstance responses",6,2022-01-10,2022-01-16,2022
-"Theft reports taken",0,2022-01-10,2022-01-16,2022
-"Unlocks",64,2022-01-10,2022-01-16,2022
-"Vehicle patrols",295,2022-01-10,2022-01-16,2022
-"Vehicle assistance responses",5,2022-01-10,2022-01-16,2022
-"Welfare check responses",0,2022-01-10,2022-01-16,2022
-"Alarm checks",6,2022-01-03,2022-01-09,2022
-"Animal issue responses",0,2022-01-03,2022-01-09,2022
-"AOD interactions",0,2022-01-03,2022-01-09,2022
-"Building patrols",205,2022-01-03,2022-01-09,2022
-"Community assistance responses",0,2022-01-03,2022-01-09,2022
-"Escorts",0,2022-01-03,2022-01-09,2022
-"Fire responses",0,2022-01-03,2022-01-09,2022
-"Foot patrols",398,2022-01-03,2022-01-09,2022
-"Held door checks",7,2022-01-03,2022-01-09,2022
-"Maintenance issue responses",0,2022-01-03,2022-01-09,2022
-"Medical assistance responses",3,2022-01-03,2022-01-09,2022
-"Noise complaint responses",0,2022-01-03,2022-01-09,2022
-"Suspicious circumstance responses",10,2022-01-03,2022-01-09,2022
-"Theft reports taken",0,2022-01-03,2022-01-09,2022
-"Unlocks",33,2022-01-03,2022-01-09,2022
-"Vehicle patrols",250,2022-01-03,2022-01-09,2022
-"Vehicle assistance responses",1,2022-01-03,2022-01-09,2022
-"Welfare check responses",0,2022-01-03,2022-01-09,2022
-"Alarm checks",8,2021-12-27,2022-01-02,2021
-"Animal issue responses",0,2021-12-27,2022-01-02,2021
-"AOD interactions",0,2021-12-27,2022-01-02,2021
-"Building patrols",204,2021-12-27,2022-01-02,2021
-"Community assistance responses",0,2021-12-27,2022-01-02,2021
-"Escorts",0,2021-12-27,2022-01-02,2021
-"Fire responses",0,2021-12-27,2022-01-02,2021
-"Foot patrols",316,2021-12-27,2022-01-02,2021
-"Held door checks",0,2021-12-27,2022-01-02,2021
-"Maintenance issue responses",1,2021-12-27,2022-01-02,2021
-"Medical assistance responses",0,2021-12-27,2022-01-02,2021
-"Noise complaint responses",0,2021-12-27,2022-01-02,2021
-"Suspicious circumstance responses",12,2021-12-27,2022-01-02,2021
-"Theft reports taken",0,2021-12-27,2022-01-02,2021
-"Unlocks",23,2021-12-27,2022-01-02,2021
-"Vehicle patrols",273,2021-12-27,2022-01-02,2021
-"Vehicle assistance responses",1,2021-12-27,2022-01-02,2021
-"Welfare check responses",0,2021-12-27,2022-01-02,2021
-"Alarm checks",3,NA,2021-12-26,NA
-"Animal issue responses",0,NA,2021-12-26,NA
-"AOD interactions",0,NA,2021-12-26,NA
-"Building patrols",195,NA,2021-12-26,NA
-"Community assistance responses",0,NA,2021-12-26,NA
-"Escorts",0,NA,2021-12-26,NA
-"Fire responses",0,NA,2021-12-26,NA
-"Foot patrols",372,NA,2021-12-26,NA
-"Held door checks",6,NA,2021-12-26,NA
-"Maintenance issue responses",2,NA,2021-12-26,NA
-"Medical assistance responses",0,NA,2021-12-26,NA
-"Noise complaint responses",0,NA,2021-12-26,NA
-"Suspicious circumstance responses",7,NA,2021-12-26,NA
-"Theft reports taken",0,NA,2021-12-26,NA
-"Unlocks",30,NA,2021-12-26,NA
-"Vehicle patrols",238,NA,2021-12-26,NA
-"Vehicle assistance responses",1,NA,2021-12-26,NA
-"Welfare check responses",0,NA,2021-12-26,NA
-"Alarm checks",3,NA,2021-12-19,NA
-"Animal issue responses",0,NA,2021-12-19,NA
-"AOD interactions",2,NA,2021-12-19,NA
-"Building patrols",228,NA,2021-12-19,NA
-"Community assistance responses",4,NA,2021-12-19,NA
-"Escorts",3,NA,2021-12-19,NA
-"Fire responses",0,NA,2021-12-19,NA
-"Foot patrols",388,NA,2021-12-19,NA
-"Held door checks",16,NA,2021-12-19,NA
-"Maintenance issue responses",4,NA,2021-12-19,NA
-"Medical assistance responses",4,NA,2021-12-19,NA
-"Noise complaint responses",0,NA,2021-12-19,NA
-"Suspicious circumstance responses",8,NA,2021-12-19,NA
-"Theft reports taken",0,NA,2021-12-19,NA
-"Unlocks",57,NA,2021-12-19,NA
-"Vehicle patrols",256,NA,2021-12-19,NA
-"Vehicle assistance responses",4,NA,2021-12-19,NA
-"Welfare check responses",0,NA,2021-12-19,NA
-"Alarm checks",3,NA,2021-12-12,NA
-"Animal issue responses",1,NA,2021-12-12,NA
-"AOD interactions",0,NA,2021-12-12,NA
-"Building patrols",252,NA,2021-12-12,NA
-"Community assistance responses",2,NA,2021-12-12,NA
-"Escorts",8,NA,2021-12-12,NA
-"Fire responses",0,NA,2021-12-12,NA
-"Foot patrols",387,NA,2021-12-12,NA
-"Held door checks",13,NA,2021-12-12,NA
-"Maintenance issue responses",2,NA,2021-12-12,NA
-"Medical assistance responses",2,NA,2021-12-12,NA
-"Noise complaint responses",1,NA,2021-12-12,NA
-"Suspicious circumstance responses",14,NA,2021-12-12,NA
-"Theft reports taken",3,NA,2021-12-12,NA
-"Unlocks",63,NA,2021-12-12,NA
-"Vehicle patrols",306,NA,2021-12-12,NA
-"Vehicle assistance responses",1,NA,2021-12-12,NA
-"Welfare check responses",0,NA,2021-12-12,NA
-"Alarm checks",5,NA,2021-12-05,NA
-"Animal issue responses",1,NA,2021-12-05,NA
-"AOD interactions",1,NA,2021-12-05,NA
-"Building patrols",227,NA,2021-12-05,NA
-"Community assistance responses",5,NA,2021-12-05,NA
-"Escorts",4,NA,2021-12-05,NA
-"Fire responses",0,NA,2021-12-05,NA
-"Foot patrols",392,NA,2021-12-05,NA
-"Held door checks",8,NA,2021-12-05,NA
-"Maintenance issue responses",2,NA,2021-12-05,NA
-"Medical assistance responses",4,NA,2021-12-05,NA
-"Noise complaint responses",2,NA,2021-12-05,NA
-"Suspicious circumstance responses",14,NA,2021-12-05,NA
-"Theft reports taken",0,NA,2021-12-05,NA
-"Unlocks",77,NA,2021-12-05,NA
-"Vehicle patrols",300,NA,2021-12-05,NA
-"Vehicle assistance responses",5,NA,2021-12-05,NA
-"Welfare check responses",1,NA,2021-12-05,NA
-"Alarm checks",15,NA,2021-11-21,NA
-"Animal issue responses",1,NA,2021-11-21,NA
-"AOD interactions",1,NA,2021-11-21,NA
-"Building patrols",219,NA,2021-11-21,NA
-"Community assistance responses",3,NA,2021-11-21,NA
-"Escorts",5,NA,2021-11-21,NA
-"Fire responses",2,NA,2021-11-21,NA
-"Foot patrols",413,NA,2021-11-21,NA
-"Held door checks",24,NA,2021-11-21,NA
-"Medical assistance responses",4,NA,2021-11-21,NA
-"Noise complaint responses",1,NA,2021-11-21,NA
-"Suspicious circumstance responses",19,NA,2021-11-21,NA
-"Unlocks",75,NA,2021-11-21,NA
-"Vehicle patrols",301,NA,2021-11-21,NA
-"Vehicle assistance responses",2,NA,2021-11-21,NA
-"Alarm checks",9,NA,2021-11-14,NA
-"AOD interactions",1,NA,2021-11-14,NA
-"Building patrols",247,NA,2021-11-14,NA
-"Community assistance responses",1,NA,2021-11-14,NA
-"Escorts",7,NA,2021-11-14,NA
-"Foot patrols",358,NA,2021-11-14,NA
-"Held door checks",20,NA,2021-11-14,NA
-"Medical assistance responses",2,NA,2021-11-14,NA
-"Noise complaint responses",1,NA,2021-11-14,NA
-"Suspicious circumstance responses",13,NA,2021-11-14,NA
-"Unlocks",83,NA,2021-11-14,NA
-"Vehicle patrols",284,NA,2021-11-14,NA
-"Vehicle assistance responses",1,NA,2021-11-14,NA
-"Building patrols",236,NA,2021-11-07,NA
-"Community assistance responses",1,NA,2021-11-07,NA
-"Escorts",5,NA,2021-11-07,NA
-"Foot patrols",342,NA,2021-11-07,NA
-"Held door checks",28,NA,2021-11-07,NA
-"Medical assistance responses",2,NA,2021-11-07,NA
-"Noise complaint responses",1,NA,2021-11-07,NA
-"Suspicious circumstance responses",13,NA,2021-11-07,NA
-"Unlocks",80,NA,2021-11-07,NA
-"Vehicle patrols",289,NA,2021-11-07,NA
-"Vehicle assistance responses",1,NA,2021-11-07,NA
-"Alarm responses",6,NA,2021-10-24,NA
-"Animal issue responses",2,NA,2021-10-24,NA
-"Building patrols",184,NA,2021-10-24,NA
-"Escorts",1,NA,2021-10-24,NA
-"Foot patrols",253,NA,2021-10-24,NA
-"Held door checks",10,NA,2021-10-24,NA
-"Medical assistance responses",2,NA,2021-10-24,NA
-"Suspicious circumstance responses",26,NA,2021-10-24,NA
-"Unlocks",78,NA,2021-10-24,NA
-"Vehicle patrols",210,NA,2021-10-24,NA
-"Alarm responses",9,NA,2021-10-17,NA
-"Animal issue responses",2,NA,2021-10-17,NA
-"Building patrols",131,NA,2021-10-17,NA
-"Escorts",1,NA,2021-10-17,NA
-"Foot patrols",230,NA,2021-10-17,NA
-"Held door checks",14,NA,2021-10-17,NA
-"Medical assistance responses",6,NA,2021-10-17,NA
-"Suspicious circumstance responses",17,NA,2021-10-17,NA
-"Unlocks",84,NA,2021-10-17,NA
-"Vehicle patrols",195,NA,2021-10-17,NA
-"Vehicle assistance responses",3,NA,2021-10-17,NA
-"Building patrols",190,NA,2021-10-10,NA
-"Foot patrols",344,NA,2021-10-10,NA
-"Vehicle patrols",242,NA,2021-10-10,NA
-"Vehicle assistance responses",4,NA,2021-10-10,NA
-"Held door checks",16,NA,2021-10-10,NA
-"Escorts",1,NA,2021-10-10,NA
-"Medical assistance responses",3,NA,2021-10-10,NA
-"Unlocks",100,NA,2021-10-10,NA
-"Suspicious circumstance responses",27,NA,2021-10-10,NA
-"Building patrols",167,NA,2021-10-03,NA
-"Foot patrols",308,NA,2021-10-03,NA
-"Segway patrols",2,NA,2021-10-03,NA
-"Vehicle patrols",197,NA,2021-10-03,NA
-"Held door checks",20,NA,2021-10-03,NA
-"Escorts",1,NA,2021-10-03,NA
-"Unlocks",69,NA,2021-10-03,NA
-"Suspicious circumstance responses",12,NA,2021-10-03,NA
+"Type","Incidents","startDate","endDate"
+"Alarm checks","10",2023-03-27,2023-04-02
+"Animal issue responses","0",2023-03-27,2023-04-02
+"AOD interactions","1",2023-03-27,2023-04-02
+"Building patrols","325",2023-03-27,2023-04-02
+"Candle/incense violation interactions","0",2023-03-27,2023-04-02
+"Community assistance responses","1",2023-03-27,2023-04-02
+"Escorts","4",2023-03-27,2023-04-02
+"Fire responses","0",2023-03-27,2023-04-02
+"Foot patrols","159",2023-03-27,2023-04-02
+"Held door checks","4",2023-03-27,2023-04-02
+"Maintenance issue responses","1",2023-03-27,2023-04-02
+"Medical assistance responses","3",2023-03-27,2023-04-02
+"Noise complaint responses","0",2023-03-27,2023-04-02
+"Suspicious circumstance responses","10",2023-03-27,2023-04-02
+"Theft reports taken","0",2023-03-27,2023-04-02
+"Unlocks","84",2023-03-27,2023-04-02
+"Vehicle patrols","266",2023-03-27,2023-04-02
+"Vehicle assistance responses","1",2023-03-27,2023-04-02
+"Welfare check responses","1",2023-03-27,2023-04-02
+"Alarm checks","10",2023-03-20,2023-03-26
+"Animal issue responses","0",2023-03-20,2023-03-26
+"AOD interactions","1",2023-03-20,2023-03-26
+"Building patrols","299",2023-03-20,2023-03-26
+"Candle/incense violation interactions","0",2023-03-20,2023-03-26
+"Community assistance responses","0",2023-03-20,2023-03-26
+"Escorts","4",2023-03-20,2023-03-26
+"Fire responses","0",2023-03-20,2023-03-26
+"Foot patrols","185",2023-03-20,2023-03-26
+"Held door checks","12",2023-03-20,2023-03-26
+"Maintenance issue responses","4",2023-03-20,2023-03-26
+"Medical assistance responses","2",2023-03-20,2023-03-26
+"Noise complaint responses","1",2023-03-20,2023-03-26
+"Suspicious circumstance responses","5",2023-03-20,2023-03-26
+"Theft reports taken","1",2023-03-20,2023-03-26
+"Unlocks","70",2023-03-20,2023-03-26
+"Vehicle patrols","226",2023-03-20,2023-03-26
+"Vehicle assistance responses","5",2023-03-20,2023-03-26
+"Welfare check responses","3",2023-03-20,2023-03-26
+"Alarm checks","5",2023-03-13,2023-03-19
+"Animal issue responses","0",2023-03-13,2023-03-19
+"AOD interactions","0",2023-03-13,2023-03-19
+"Building patrols","285",2023-03-13,2023-03-19
+"Candle/incense violation interactions","0",2023-03-13,2023-03-19
+"Community assistance responses","1",2023-03-13,2023-03-19
+"Escorts","3",2023-03-13,2023-03-19
+"Fire responses","0",2023-03-13,2023-03-19
+"Foot patrols","162",2023-03-13,2023-03-19
+"Held door checks","11",2023-03-13,2023-03-19
+"Maintenance issue responses","1",2023-03-13,2023-03-19
+"Medical assistance responses","4",2023-03-13,2023-03-19
+"Noise complaint responses","0",2023-03-13,2023-03-19
+"Suspicious circumstance responses","10",2023-03-13,2023-03-19
+"Theft reports taken","0",2023-03-13,2023-03-19
+"Unlocks","73",2023-03-13,2023-03-19
+"Vehicle patrols","252",2023-03-13,2023-03-19
+"Vehicle assistance responses","2",2023-03-13,2023-03-19
+"Welfare check responses","1",2023-03-13,2023-03-19
+"Alarm checks","5",2023-03-06,2023-03-12
+"Animal issue responses","0",2023-03-06,2023-03-12
+"AOD interactions","4",2023-03-06,2023-03-12
+"Building patrols","366",2023-03-06,2023-03-12
+"Candle/incense violation interactions","0",2023-03-06,2023-03-12
+"Community assistance responses","1",2023-03-06,2023-03-12
+"Escorts","6",2023-03-06,2023-03-12
+"Fire responses","0 ",2023-03-06,2023-03-12
+"Foot patrols","192",2023-03-06,2023-03-12
+"Held door checks","8",2023-03-06,2023-03-12
+"Maintenance issue responses","2",2023-03-06,2023-03-12
+"Medical assistance responses","5",2023-03-06,2023-03-12
+"Noise complaint responses","0",2023-03-06,2023-03-12
+"Suspicious circumstance responses","8",2023-03-06,2023-03-12
+"Theft reports taken","1",2023-03-06,2023-03-12
+"Unlocks","61",2023-03-06,2023-03-12
+"Vehicle patrols","262",2023-03-06,2023-03-12
+"Vehicle assistance responses","5",2023-03-06,2023-03-12
+"Welfare check responses","0",2023-03-06,2023-03-12
+"Alarm checks","4",2023-02-27,2023-03-05
+"Animal issue responses","1",2023-02-27,2023-03-05
+"AOD interactions","1",2023-02-27,2023-03-05
+"Building patrols","326",2023-02-27,2023-03-05
+"Candle/incense violation interactions","0",2023-02-27,2023-03-05
+"Community assistance responses","6",2023-02-27,2023-03-05
+"Escorts","2",2023-02-27,2023-03-05
+"Fire responses","0",2023-02-27,2023-03-05
+"Foot patrols","183",2023-02-27,2023-03-05
+"Held door checks","7",2023-02-27,2023-03-05
+"Maintenance issue responses","3",2023-02-27,2023-03-05
+"Medical assistance responses","6",2023-02-27,2023-03-05
+"Noise complaint responses","0",2023-02-27,2023-03-05
+"Suspicious circumstance responses","9",2023-02-27,2023-03-05
+"Theft reports taken","0",2023-02-27,2023-03-05
+"Unlocks","91",2023-02-27,2023-03-05
+"Vehicle patrols","252",2023-02-27,2023-03-05
+"Vehicle assistance responses","0",2023-02-27,2023-03-05
+"Welfare check responses","0",2023-02-27,2023-03-05
+"Alarm checks","8",2023-02-20,2023-02-26
+"Animal issue responses","0",2023-02-20,2023-02-26
+"AOD interactions","0",2023-02-20,2023-02-26
+"Building patrols","298",2023-02-20,2023-02-26
+"Candle/incense violation interactions","0",2023-02-20,2023-02-26
+"Community assistance responses","1",2023-02-20,2023-02-26
+"Escorts","3",2023-02-20,2023-02-26
+"Fire responses","0",2023-02-20,2023-02-26
+"Foot patrols","225",2023-02-20,2023-02-26
+"Held door checks","10",2023-02-20,2023-02-26
+"Maintenance issue responses","0",2023-02-20,2023-02-26
+"Medical assistance responses","1",2023-02-20,2023-02-26
+"Noise complaint responses","1",2023-02-20,2023-02-26
+"Suspicious circumstance responses","5",2023-02-20,2023-02-26
+"Theft reports taken","0",2023-02-20,2023-02-26
+"Unlocks","75",2023-02-20,2023-02-26
+"Vehicle patrols","216",2023-02-20,2023-02-26
+"Vehicle assistance responses","0",2023-02-20,2023-02-26
+"Welfare check responses","0",2023-02-20,2023-02-26
+"Alarm checks","8",2023-02-13,2023-02-19
+"Animal issue responses","0",2023-02-13,2023-02-19
+"AOD interactions","0",2023-02-13,2023-02-19
+"Building patrols","378",2023-02-13,2023-02-19
+"Candle/incense violation interactions","0",2023-02-13,2023-02-19
+"Community assistance responses","1",2023-02-13,2023-02-19
+"Escorts","4",2023-02-13,2023-02-19
+"Fire responses","0",2023-02-13,2023-02-19
+"Foot patrols","191",2023-02-13,2023-02-19
+"Held door checks","12",2023-02-13,2023-02-19
+"Maintenance issue responses","0",2023-02-13,2023-02-19
+"Medical assistance responses","3",2023-02-13,2023-02-19
+"Noise complaint responses","2",2023-02-13,2023-02-19
+"Suspicious circumstance responses","9",2023-02-13,2023-02-19
+"Theft reports taken","3",2023-02-13,2023-02-19
+"Unlocks","76",2023-02-13,2023-02-19
+"Vehicle patrols","271",2023-02-13,2023-02-19
+"Vehicle assistance responses","1",2023-02-13,2023-02-19
+"Welfare check responses","1",2023-02-13,2023-02-19
+"Alarm checks","4",2023-02-06,2023-02-12
+"Animal issue responses","0",2023-02-06,2023-02-12
+"AOD interactions","1",2023-02-06,2023-02-12
+"Building patrols","320",2023-02-06,2023-02-12
+"Candle/incense violation interactions","0",2023-02-06,2023-02-12
+"Community assistance responses","4",2023-02-06,2023-02-12
+"Escorts","4",2023-02-06,2023-02-12
+"Fire responses","0",2023-02-06,2023-02-12
+"Foot patrols","234",2023-02-06,2023-02-12
+"Held door checks","4",2023-02-06,2023-02-12
+"Maintenance issue responses","2",2023-02-06,2023-02-12
+"Medical assistance responses","3",2023-02-06,2023-02-12
+"Noise complaint responses","1",2023-02-06,2023-02-12
+"Suspicious circumstance responses","10",2023-02-06,2023-02-12
+"Theft reports taken","0",2023-02-06,2023-02-12
+"Unlocks","59",2023-02-06,2023-02-12
+"Vehicle patrols","283",2023-02-06,2023-02-12
+"Vehicle assistance responses","3",2023-02-06,2023-02-12
+"Welfare check responses","1",2023-02-06,2023-02-12
+"Alarm checks","17",2023-01-30,2023-02-05
+"Animal issue responses","0",2023-01-30,2023-02-05
+"AOD interactions","1",2023-01-30,2023-02-05
+"Building patrols","317",2023-01-30,2023-02-05
+"Candle/incense violation interactions","0",2023-01-30,2023-02-05
+"Community assistance responses","0",2023-01-30,2023-02-05
+"Escorts","1",2023-01-30,2023-02-05
+"Fire responses","0",2023-01-30,2023-02-05
+"Foot patrols","208",2023-01-30,2023-02-05
+"Held door checks","3",2023-01-30,2023-02-05
+"Maintenance issue responses","2",2023-01-30,2023-02-05
+"Medical assistance responses","2",2023-01-30,2023-02-05
+"Noise complaint responses","0",2023-01-30,2023-02-05
+"Suspicious circumstance responses","16",2023-01-30,2023-02-05
+"Theft reports taken","1",2023-01-30,2023-02-05
+"Unlocks","75",2023-01-30,2023-02-05
+"Vehicle patrols","284",2023-01-30,2023-02-05
+"Vehicle assistance responses","3",2023-01-30,2023-02-05
+"Welfare check responses","0",2023-01-30,2023-02-05
+"Alarm checks","6",2023-01-23,2023-01-29
+"Animal issue responses","0",2023-01-23,2023-01-29
+"AOD interactions","4",2023-01-23,2023-01-29
+"Building patrols","351",2023-01-23,2023-01-29
+"Candle/incense violation interactions","0",2023-01-23,2023-01-29
+"Community assistance responses","5",2023-01-23,2023-01-29
+"Escorts","3",2023-01-23,2023-01-29
+"Fire responses","0",2023-01-23,2023-01-29
+"Foot patrols","193",2023-01-23,2023-01-29
+"Held door checks","11",2023-01-23,2023-01-29
+"Maintenance issue responses","2",2023-01-23,2023-01-29
+"Medical assistance responses","1",2023-01-23,2023-01-29
+"Noise complaint responses","2",2023-01-23,2023-01-29
+"Suspicious circumstance responses","23",2023-01-23,2023-01-29
+"Theft reports taken","1",2023-01-23,2023-01-29
+"Unlocks","85",2023-01-23,2023-01-29
+"Vehicle patrols","307",2023-01-23,2023-01-29
+"Vehicle assistance responses","0",2023-01-23,2023-01-29
+"Welfare check responses","0",2023-01-23,2023-01-29
+"Alarm checks","17",2023-01-16,2023-01-22
+"Animal issue responses","0",2023-01-16,2023-01-22
+"AOD interactions","2",2023-01-16,2023-01-22
+"Building patrols","368",2023-01-16,2023-01-22
+"Candle/incense violation interactions","0",2023-01-16,2023-01-22
+"Community assistance responses","1",2023-01-16,2023-01-22
+"Escorts","4",2023-01-16,2023-01-22
+"Fire responses","0",2023-01-16,2023-01-22
+"Foot patrols","240",2023-01-16,2023-01-22
+"Held door checks","14",2023-01-16,2023-01-22
+"Maintenance issue responses","4",2023-01-16,2023-01-22
+"Medical assistance responses","1",2023-01-16,2023-01-22
+"Noise complaint responses","0",2023-01-16,2023-01-22
+"Suspicious circumstance responses","7",2023-01-16,2023-01-22
+"Theft reports taken","2",2023-01-16,2023-01-22
+"Unlocks","117",2023-01-16,2023-01-22
+"Vehicle patrols","280",2023-01-16,2023-01-22
+"Vehicle assistance responses","3",2023-01-16,2023-01-22
+"Welfare check responses","2",2023-01-16,2023-01-22
+"Alarm checks","5",2023-01-09,2023-01-15
+"Animal issue responses","0",2023-01-09,2023-01-15
+"AOD interactions","0",2023-01-09,2023-01-15
+"Building patrols","288",2023-01-09,2023-01-15
+"Candle/incense violation interactions","0",2023-01-09,2023-01-15
+"Community assistance responses","0",2023-01-09,2023-01-15
+"Escorts","3",2023-01-09,2023-01-15
+"Fire responses","0",2023-01-09,2023-01-15
+"Foot patrols","179",2023-01-09,2023-01-15
+"Held door checks","10",2023-01-09,2023-01-15
+"Maintenance issue responses","2",2023-01-09,2023-01-15
+"Medical assistance responses","1",2023-01-09,2023-01-15
+"Noise complaint responses","0",2023-01-09,2023-01-15
+"Suspicious circumstance responses","9",2023-01-09,2023-01-15
+"Theft reports taken","0",2023-01-09,2023-01-15
+"Unlocks","98",2023-01-09,2023-01-15
+"Vehicle patrols","266",2023-01-09,2023-01-15
+"Vehicle assistance responses","0",2023-01-09,2023-01-15
+"Welfare check responses","1",2023-01-09,2023-01-15
+"Alarm checks","13",2023-01-01,2023-01-08
+"Animal issue responses","1",2023-01-01,2023-01-08
+"AOD interactions","0",2023-01-01,2023-01-08
+"Building patrols","313",2023-01-01,2023-01-08
+"Candle/incense violation interactions","0",2023-01-01,2023-01-08
+"Community assistance responses","0",2023-01-01,2023-01-08
+"Escorts","3",2023-01-01,2023-01-08
+"Fire responses","0",2023-01-01,2023-01-08
+"Foot patrols","151",2023-01-01,2023-01-08
+"Held door checks","3",2023-01-01,2023-01-08
+"Maintenance issue responses","2",2023-01-01,2023-01-08
+"Medical assistance responses","1",2023-01-01,2023-01-08
+"Noise complaint responses","0",2023-01-01,2023-01-08
+"Suspicious circumstance responses","7",2023-01-01,2023-01-08
+"Theft reports taken","1",2023-01-01,2023-01-08
+"Unlocks","30",2023-01-01,2023-01-08
+"Vehicle patrols","259",2023-01-01,2023-01-08
+"Vehicle assistance responses","0",2023-01-01,2023-01-08
+"Welfare check responses","0",2023-01-01,2023-01-08
+"Alarm checks","2",2022-12-26,2022-12-31
+"Animal issue responses","0",2022-12-26,2022-12-31
+"AOD interactions","0",2022-12-26,2022-12-31
+"Building patrols","179",2022-12-26,2022-12-31
+"Candle/incense violation interactions","0",2022-12-26,2022-12-31
+"Community assistance responses","2",2022-12-26,2022-12-31
+"Escorts","0",2022-12-26,2022-12-31
+"Fire responses","0",2022-12-26,2022-12-31
+"Foot patrols","140",2022-12-26,2022-12-31
+"Held door checks","4",2022-12-26,2022-12-31
+"Maintenance issue responses","0",2022-12-26,2022-12-31
+"Medical assistance responses","0",2022-12-26,2022-12-31
+"Noise complaint responses","0",2022-12-26,2022-12-31
+"Suspicious circumstance responses","1",2022-12-26,2022-12-31
+"Theft reports taken","0",2022-12-26,2022-12-31
+"Unlocks","18",2022-12-26,2022-12-31
+"Vehicle patrols","178",2022-12-26,2022-12-31
+"Vehicle assistance responses","0",2022-12-26,2022-12-31
+"Welfare check responses","1",2022-12-26,2022-12-31
+"Alarm checks","18",2022-12-19,2022-12-25
+"Animal issue responses","0",2022-12-19,2022-12-25
+"AOD interactions","0",2022-12-19,2022-12-25
+"Building patrols","274",2022-12-19,2022-12-25
+"Candle/incense violation interactions","0",2022-12-19,2022-12-25
+"Community assistance responses","2",2022-12-19,2022-12-25
+"Escorts","3",2022-12-19,2022-12-25
+"Fire responses","0",2022-12-19,2022-12-25
+"Foot patrols","178",2022-12-19,2022-12-25
+"Held door checks","4",2022-12-19,2022-12-25
+"Maintenance issue responses","1",2022-12-19,2022-12-25
+"Medical assistance responses","0",2022-12-19,2022-12-25
+"Noise complaint responses","0",2022-12-19,2022-12-25
+"Suspicious circumstance responses","12",2022-12-19,2022-12-25
+"Theft reports taken","1",2022-12-19,2022-12-25
+"Unlocks","21",2022-12-19,2022-12-25
+"Vehicle patrols","247",2022-12-19,2022-12-25
+"Vehicle assistance responses","1",2022-12-19,2022-12-25
+"Welfare check responses","0",2022-12-19,2022-12-25
+"Alarm checks","14",2022-12-12,2022-12-18
+"Animal issue responses","0",2022-12-12,2022-12-18
+"AOD interactions","0",2022-12-12,2022-12-18
+"Building patrols","288",2022-12-12,2022-12-18
+"Candle/incense violation interactions","0",2022-12-12,2022-12-18
+"Community assistance responses","0",2022-12-12,2022-12-18
+"Escorts","3",2022-12-12,2022-12-18
+"Fire responses","0",2022-12-12,2022-12-18
+"Foot patrols","245",2022-12-12,2022-12-18
+"Held door checks","17",2022-12-12,2022-12-18
+"Maintenance issue responses","1",2022-12-12,2022-12-18
+"Medical assistance responses","1",2022-12-12,2022-12-18
+"Noise complaint responses","2",2022-12-12,2022-12-18
+"Suspicious circumstance responses","6",2022-12-12,2022-12-18
+"Theft reports taken","1",2022-12-12,2022-12-18
+"Unlocks","70",2022-12-12,2022-12-18
+"Vehicle patrols","213",2022-12-12,2022-12-18
+"Vehicle assistance responses","3",2022-12-12,2022-12-18
+"Welfare check responses","3",2022-12-12,2022-12-18
+"Alarm checks","15",2022-12-05,2022-12-11
+"Animal issue responses","0",2022-12-05,2022-12-11
+"AOD interactions","1",2022-12-05,2022-12-11
+"Building patrols","278",2022-12-05,2022-12-11
+"Candle/incense violation interactions","0",2022-12-05,2022-12-11
+"Community assistance responses","4",2022-12-05,2022-12-11
+"Escorts","4",2022-12-05,2022-12-11
+"Fire responses","0",2022-12-05,2022-12-11
+"Foot patrols","196",2022-12-05,2022-12-11
+"Held door checks","3",2022-12-05,2022-12-11
+"Maintenance issue responses","5",2022-12-05,2022-12-11
+"Medical assistance responses","3",2022-12-05,2022-12-11
+"Noise complaint responses","4",2022-12-05,2022-12-11
+"Suspicious circumstance responses","12",2022-12-05,2022-12-11
+"Theft reports taken","0",2022-12-05,2022-12-11
+"Unlocks","66",2022-12-05,2022-12-11
+"Vehicle patrols","268",2022-12-05,2022-12-11
+"Vehicle assistance responses","6",2022-12-05,2022-12-11
+"Welfare check responses","0",2022-12-05,2022-12-11
+"Alarm checks","16",2022-11-28,2022-12-04
+"Animal issue responses","0",2022-11-28,2022-12-04
+"AOD interactions","1",2022-11-28,2022-12-04
+"Building patrols","218",2022-11-28,2022-12-04
+"Candle/incense violation interactions","0",2022-11-28,2022-12-04
+"Community assistance responses","0",2022-11-28,2022-12-04
+"Escorts","3",2022-11-28,2022-12-04
+"Fire responses","0",2022-11-28,2022-12-04
+"Foot patrols","212",2022-11-28,2022-12-04
+"Held door checks","11",2022-11-28,2022-12-04
+"Maintenance issue responses","4",2022-11-28,2022-12-04
+"Medical assistance responses","1",2022-11-28,2022-12-04
+"Noise complaint responses","2",2022-11-28,2022-12-04
+"Suspicious circumstance responses","15",2022-11-28,2022-12-04
+"Theft reports taken","2",2022-11-28,2022-12-04
+"Unlocks","87",2022-11-28,2022-12-04
+"Vehicle patrols","230",2022-11-28,2022-12-04
+"Vehicle assistance responses","2",2022-11-28,2022-12-04
+"Welfare check responses","3",2022-11-28,2022-12-04
+"Alarm checks","14",2022-11-21,2022-11-27
+"Animal issue responses","0",2022-11-21,2022-11-27
+"AOD interactions","1",2022-11-21,2022-11-27
+"Building patrols","209",2022-11-21,2022-11-27
+"Candle/incense violation interactions","0",2022-11-21,2022-11-27
+"Community assistance responses","0",2022-11-21,2022-11-27
+"Escorts","2",2022-11-21,2022-11-27
+"Fire responses","0",2022-11-21,2022-11-27
+"Foot patrols","202",2022-11-21,2022-11-27
+"Held door checks","9",2022-11-21,2022-11-27
+"Maintenance issue responses","3",2022-11-21,2022-11-27
+"Medical assistance responses","1",2022-11-21,2022-11-27
+"Noise complaint responses","2",2022-11-21,2022-11-27
+"Suspicious circumstance responses","18",2022-11-21,2022-11-27
+"Theft reports taken","0",2022-11-21,2022-11-27
+"Unlocks","58",2022-11-21,2022-11-27
+"Vehicle patrols","263",2022-11-21,2022-11-27
+"Vehicle assistance responses","3",2022-11-21,2022-11-27
+"Welfare check responses","0",2022-11-21,2022-11-27
+"Alarm checks","10",2022-11-14,2022-11-20
+"Animal issue responses","1",2022-11-14,2022-11-20
+"AOD interactions","2",2022-11-14,2022-11-20
+"Building patrols","178",2022-11-14,2022-11-20
+"Candle/incense violation interactions","0",2022-11-14,2022-11-20
+"Community assistance responses","1",2022-11-14,2022-11-20
+"Escorts","0",2022-11-14,2022-11-20
+"Fire responses","0",2022-11-14,2022-11-20
+"Foot patrols","190",2022-11-14,2022-11-20
+"Held door checks","13",2022-11-14,2022-11-20
+"Maintenance issue responses","2",2022-11-14,2022-11-20
+"Medical assistance responses","0",2022-11-14,2022-11-20
+"Noise complaint responses","0",2022-11-14,2022-11-20
+"Suspicious circumstance responses","13",2022-11-14,2022-11-20
+"Theft reports taken","3",2022-11-14,2022-11-20
+"Unlocks","81",2022-11-14,2022-11-20
+"Vehicle patrols","235",2022-11-14,2022-11-20
+"Vehicle assistance responses","4",2022-11-14,2022-11-20
+"Welfare check responses","1",2022-11-14,2022-11-20
+"Alarm checks","15",2022-11-07,2022-11-13
+"Animal issue responses","0",2022-11-07,2022-11-13
+"AOD interactions","1",2022-11-07,2022-11-13
+"Building patrols","179",2022-11-07,2022-11-13
+"Candle/incense violation interactions","0",2022-11-07,2022-11-13
+"Community assistance responses","3",2022-11-07,2022-11-13
+"Escorts","5",2022-11-07,2022-11-13
+"Fire responses","1",2022-11-07,2022-11-13
+"Foot patrols","168",2022-11-07,2022-11-13
+"Held door checks","14",2022-11-07,2022-11-13
+"Maintenance issue responses","4",2022-11-07,2022-11-13
+"Medical assistance responses","1",2022-11-07,2022-11-13
+"Noise complaint responses","0",2022-11-07,2022-11-13
+"Suspicious circumstance responses","3",2022-11-07,2022-11-13
+"Theft reports taken","2",2022-11-07,2022-11-13
+"Unlocks","81",2022-11-07,2022-11-13
+"Vehicle patrols","213",2022-11-07,2022-11-13
+"Vehicle assistance responses","1",2022-11-07,2022-11-13
+"Welfare check responses","1",2022-11-07,2022-11-13
+"Alarm checks","7",2022-10-31,2022-11-06
+"Animal issue responses","0",2022-10-31,2022-11-06
+"AOD interactions","3",2022-10-31,2022-11-06
+"Building patrols","140",2022-10-31,2022-11-06
+"Candle/incense violation interactions","0",2022-10-31,2022-11-06
+"Community assistance responses","4",2022-10-31,2022-11-06
+"Escorts","2",2022-10-31,2022-11-06
+"Fire responses","0",2022-10-31,2022-11-06
+"Foot patrols","168",2022-10-31,2022-11-06
+"Held door checks","20",2022-10-31,2022-11-06
+"Maintenance issue responses","1",2022-10-31,2022-11-06
+"Medical assistance responses","2",2022-10-31,2022-11-06
+"Noise complaint responses","1",2022-10-31,2022-11-06
+"Suspicious circumstance responses","20",2022-10-31,2022-11-06
+"Theft reports taken","2",2022-10-31,2022-11-06
+"Unlocks","68",2022-10-31,2022-11-06
+"Vehicle patrols","191",2022-10-31,2022-11-06
+"Vehicle assistance responses","2",2022-10-31,2022-11-06
+"Welfare check responses","2",2022-10-31,2022-11-06
+"Alarm checks","9",2022-10-24,2022-10-30
+"Animal issue responses","0",2022-10-24,2022-10-30
+"AOD interactions","1",2022-10-24,2022-10-30
+"Building patrols","166",2022-10-24,2022-10-30
+"Candle/incense violation interactions","0",2022-10-24,2022-10-30
+"Community assistance responses","2",2022-10-24,2022-10-30
+"Escorts","5",2022-10-24,2022-10-30
+"Fire responses","0",2022-10-24,2022-10-30
+"Foot patrols","177",2022-10-24,2022-10-30
+"Held door checks","12",2022-10-24,2022-10-30
+"Maintenance issue responses","0",2022-10-24,2022-10-30
+"Medical assistance responses","3",2022-10-24,2022-10-30
+"Noise complaint responses","3",2022-10-24,2022-10-30
+"Suspicious circumstance responses","3",2022-10-24,2022-10-30
+"Theft reports taken","4",2022-10-24,2022-10-30
+"Unlocks","108",2022-10-24,2022-10-30
+"Vehicle patrols","223",2022-10-24,2022-10-30
+"Vehicle assistance responses","1",2022-10-24,2022-10-30
+"Welfare check responses","2",2022-10-24,2022-10-30
+"Alarm checks","7",2022-10-17,2022-10-23
+"Animal issue responses","1",2022-10-17,2022-10-23
+"AOD interactions","2",2022-10-17,2022-10-23
+"Building patrols","136",2022-10-17,2022-10-23
+"Candle/incense violation interactions","0",2022-10-17,2022-10-23
+"Community assistance responses","1",2022-10-17,2022-10-23
+"Escorts","0",2022-10-17,2022-10-23
+"Fire responses","0",2022-10-17,2022-10-23
+"Foot patrols","212",2022-10-17,2022-10-23
+"Held door checks","6",2022-10-17,2022-10-23
+"Maintenance issue responses","0",2022-10-17,2022-10-23
+"Medical assistance responses","0",2022-10-17,2022-10-23
+"Noise complaint responses","1",2022-10-17,2022-10-23
+"Suspicious circumstance responses","4",2022-10-17,2022-10-23
+"Theft reports taken","0",2022-10-17,2022-10-23
+"Unlocks","67",2022-10-17,2022-10-23
+"Vehicle patrols","221",2022-10-17,2022-10-23
+"Vehicle assistance responses","0",2022-10-17,2022-10-23
+"Welfare check responses","1",2022-10-17,2022-10-23
+"Alarm checks","4",2022-10-10,2022-10-16
+"Animal issue responses","0",2022-10-10,2022-10-16
+"AOD interactions","1",2022-10-10,2022-10-16
+"Building patrols","254",2022-10-10,2022-10-16
+"Candle/incense violation interactions","1",2022-10-10,2022-10-16
+"Community assistance responses","4",2022-10-10,2022-10-16
+"Escorts","3",2022-10-10,2022-10-16
+"Fire responses","0",2022-10-10,2022-10-16
+"Foot patrols","318",2022-10-10,2022-10-16
+"Held door checks","14",2022-10-10,2022-10-16
+"Maintenance issue responses","0",2022-10-10,2022-10-16
+"Medical assistance responses","2",2022-10-10,2022-10-16
+"Noise complaint responses","0",2022-10-10,2022-10-16
+"Suspicious circumstance responses","7",2022-10-10,2022-10-16
+"Theft reports taken","2",2022-10-10,2022-10-16
+"Unlocks","78",2022-10-10,2022-10-16
+"Vehicle patrols","170",2022-10-10,2022-10-16
+"Vehicle assistance responses","0",2022-10-10,2022-10-16
+"Welfare check responses","0",2022-10-10,2022-10-16
+"Alarm checks","7",2022-10-03,2022-10-09
+"Animal issue responses","0",2022-10-03,2022-10-09
+"AOD interactions","1",2022-10-03,2022-10-09
+"Building patrols","195",2022-10-03,2022-10-09
+"Candle/incense violation interactions","1",2022-10-03,2022-10-09
+"Community assistance responses","1",2022-10-03,2022-10-09
+"Escorts","10",2022-10-03,2022-10-09
+"Fire responses","1",2022-10-03,2022-10-09
+"Foot patrols","326",2022-10-03,2022-10-09
+"Held door checks","16",2022-10-03,2022-10-09
+"Maintenance issue responses","0",2022-10-03,2022-10-09
+"Medical assistance responses","2",2022-10-03,2022-10-09
+"Noise complaint responses","3",2022-10-03,2022-10-09
+"Suspicious circumstance responses","17",2022-10-03,2022-10-09
+"Theft reports taken","1",2022-10-03,2022-10-09
+"Unlocks","85",2022-10-03,2022-10-09
+"Vehicle patrols","163",2022-10-03,2022-10-09
+"Vehicle assistance responses","1",2022-10-03,2022-10-09
+"Welfare check responses","1",2022-10-03,2022-10-09
+"Alarm checks","5",2022-09-26,2022-10-02
+"Animal issue responses","0",2022-09-26,2022-10-02
+"AOD interactions","1",2022-09-26,2022-10-02
+"Building patrols","200",2022-09-26,2022-10-02
+"Candle/incense violation interactions","0",2022-09-26,2022-10-02
+"Community assistance responses","1",2022-09-26,2022-10-02
+"Escorts","2",2022-09-26,2022-10-02
+"Fire responses","0",2022-09-26,2022-10-02
+"Foot patrols","260",2022-09-26,2022-10-02
+"Held door checks","3",2022-09-26,2022-10-02
+"Maintenance issue responses","1",2022-09-26,2022-10-02
+"Medical assistance responses","6",2022-09-26,2022-10-02
+"Noise complaint responses","2",2022-09-26,2022-10-02
+"Suspicious circumstance responses","5",2022-09-26,2022-10-02
+"Theft reports taken","4",2022-09-26,2022-10-02
+"Unlocks","78",2022-09-26,2022-10-02
+"Vehicle patrols","130",2022-09-26,2022-10-02
+"Vehicle assistance responses","1",2022-09-26,2022-10-02
+"Welfare check responses","3",2022-09-26,2022-10-02
+"Alarm checks","8",2022-09-19,2022-09-25
+"Animal issue responses","0",2022-09-19,2022-09-25
+"AOD interactions","1",2022-09-19,2022-09-25
+"Building patrols","192",2022-09-19,2022-09-25
+"Candle/incense violation interactions","0",2022-09-19,2022-09-25
+"Community assistance responses","3",2022-09-19,2022-09-25
+"Escorts","4",2022-09-19,2022-09-25
+"Fire responses","0",2022-09-19,2022-09-25
+"Foot patrols","190",2022-09-19,2022-09-25
+"Held door checks","11",2022-09-19,2022-09-25
+"Maintenance issue responses","2",2022-09-19,2022-09-25
+"Medical assistance responses","4",2022-09-19,2022-09-25
+"Noise complaint responses","1",2022-09-19,2022-09-25
+"Suspicious circumstance responses","6",2022-09-19,2022-09-25
+"Theft reports taken","3",2022-09-19,2022-09-25
+"Unlocks","100",2022-09-19,2022-09-25
+"Vehicle patrols","184",2022-09-19,2022-09-25
+"Vehicle assistance responses","1",2022-09-19,2022-09-25
+"Welfare check responses","0",2022-09-19,2022-09-25
+"Alarm checks","10",2022-09-12,2022-09-18
+"Animal issue responses","0",2022-09-12,2022-09-18
+"AOD interactions","3",2022-09-12,2022-09-18
+"Building patrols","171",2022-09-12,2022-09-18
+"Candle/incense violation interactions","0",2022-09-12,2022-09-18
+"Community assistance responses","5",2022-09-12,2022-09-18
+"Escorts","5",2022-09-12,2022-09-18
+"Fire responses","0",2022-09-12,2022-09-18
+"Foot patrols","255",2022-09-12,2022-09-18
+"Held door checks","16",2022-09-12,2022-09-18
+"Maintenance issue responses","4",2022-09-12,2022-09-18
+"Medical assistance responses","1",2022-09-12,2022-09-18
+"Noise complaint responses","0",2022-09-12,2022-09-18
+"Suspicious circumstance responses","18",2022-09-12,2022-09-18
+"Theft reports taken","2",2022-09-12,2022-09-18
+"Unlocks","76",2022-09-12,2022-09-18
+"Vehicle patrols","230",2022-09-12,2022-09-18
+"Vehicle assistance responses","0",2022-09-12,2022-09-18
+"Welfare check responses","0",2022-09-12,2022-09-18
+"Alarm checks","10",2022-09-05,2022-09-11
+"Animal issue responses","0",2022-09-05,2022-09-11
+"AOD interactions","2",2022-09-05,2022-09-11
+"Building patrols","144",2022-09-05,2022-09-11
+"Candle/incense violation interactions","0",2022-09-05,2022-09-11
+"Community assistance responses","2",2022-09-05,2022-09-11
+"Escorts","2",2022-09-05,2022-09-11
+"Fire responses","0",2022-09-05,2022-09-11
+"Foot patrols","170",2022-09-05,2022-09-11
+"Held door checks","13",2022-09-05,2022-09-11
+"Maintenance issue responses","1",2022-09-05,2022-09-11
+"Medical assistance responses","6",2022-09-05,2022-09-11
+"Noise complaint responses","0",2022-09-05,2022-09-11
+"Suspicious circumstance responses","6",2022-09-05,2022-09-11
+"Theft reports taken","0",2022-09-05,2022-09-11
+"Unlocks","119",2022-09-05,2022-09-11
+"Vehicle patrols","209",2022-09-05,2022-09-11
+"Vehicle assistance responses","2",2022-09-05,2022-09-11
+"Welfare check responses","2",2022-09-05,2022-09-11
+"Alarm checks","3",2022-08-29,2022-09-04
+"Animal issue responses","0",2022-08-29,2022-09-04
+"AOD interactions","0",2022-08-29,2022-09-04
+"Building patrols","124",2022-08-29,2022-09-04
+"Candle/incense violation interactions","0",2022-08-29,2022-09-04
+"Community assistance responses","8",2022-08-29,2022-09-04
+"Escorts","5",2022-08-29,2022-09-04
+"Fire responses","0",2022-08-29,2022-09-04
+"Foot patrols","204",2022-08-29,2022-09-04
+"Held door checks","10",2022-08-29,2022-09-04
+"Maintenance issue responses","0",2022-08-29,2022-09-04
+"Medical assistance responses","7",2022-08-29,2022-09-04
+"Noise complaint responses","1",2022-08-29,2022-09-04
+"Suspicious circumstance responses","12",2022-08-29,2022-09-04
+"Theft reports taken","0",2022-08-29,2022-09-04
+"Unlocks","121",2022-08-29,2022-09-04
+"Vehicle patrols","194",2022-08-29,2022-09-04
+"Vehicle assistance responses","2",2022-08-29,2022-09-04
+"Welfare check responses","3",2022-08-29,2022-09-04
+"Alarm checks","10",2022-08-22,2022-08-28
+"Animal issue responses","1",2022-08-22,2022-08-28
+"AOD interactions","4",2022-08-22,2022-08-28
+"Building patrols","193",2022-08-22,2022-08-28
+"Candle/incense violation interactions","0",2022-08-22,2022-08-28
+"Community assistance responses","3",2022-08-22,2022-08-28
+"Escorts","8",2022-08-22,2022-08-28
+"Fire responses","0",2022-08-22,2022-08-28
+"Foot patrols","372",2022-08-22,2022-08-28
+"Held door checks","14",2022-08-22,2022-08-28
+"Maintenance issue responses","2",2022-08-22,2022-08-28
+"Medical assistance responses","8",2022-08-22,2022-08-28
+"Noise complaint responses","3",2022-08-22,2022-08-28
+"Suspicious circumstance responses","16",2022-08-22,2022-08-28
+"Theft reports taken","3",2022-08-22,2022-08-28
+"Unlocks","178",2022-08-22,2022-08-28
+"Vehicle patrols","247",2022-08-22,2022-08-28
+"Vehicle assistance responses","2",2022-08-22,2022-08-28
+"Welfare check responses","1",2022-08-22,2022-08-28
+"Alarm checks","4",2022-08-15,2022-08-21
+"Animal issue responses","0",2022-08-15,2022-08-21
+"AOD interactions","1",2022-08-15,2022-08-21
+"Building patrols","175",2022-08-15,2022-08-21
+"Candle/incense violation interactions","0",2022-08-15,2022-08-21
+"Community assistance responses","3",2022-08-15,2022-08-21
+"Escorts","6",2022-08-15,2022-08-21
+"Fire responses","0",2022-08-15,2022-08-21
+"Foot patrols","241",2022-08-15,2022-08-21
+"Held door checks","8",2022-08-15,2022-08-21
+"Maintenance issue responses","2",2022-08-15,2022-08-21
+"Medical assistance responses","2",2022-08-15,2022-08-21
+"Noise complaint responses","0",2022-08-15,2022-08-21
+"Suspicious circumstance responses","5",2022-08-15,2022-08-21
+"Theft reports taken","3",2022-08-15,2022-08-21
+"Unlocks","49",2022-08-15,2022-08-21
+"Vehicle patrols","198",2022-08-15,2022-08-21
+"Vehicle assistance responses","1",2022-08-15,2022-08-21
+"Welfare check responses","0",2022-08-15,2022-08-21
+"Alarm checks","10",2022-08-08,2022-08-14
+"Animal issue responses","0",2022-08-08,2022-08-14
+"AOD interactions","2",2022-08-08,2022-08-14
+"Building patrols","136",2022-08-08,2022-08-14
+"Candle/incense violation interactions","0",2022-08-08,2022-08-14
+"Community assistance responses","0",2022-08-08,2022-08-14
+"Escorts","0",2022-08-08,2022-08-14
+"Fire responses","0",2022-08-08,2022-08-14
+"Foot patrols","243",2022-08-08,2022-08-14
+"Held door checks","8",2022-08-08,2022-08-14
+"Maintenance issue responses","2",2022-08-08,2022-08-14
+"Medical assistance responses","0",2022-08-08,2022-08-14
+"Noise complaint responses","0",2022-08-08,2022-08-14
+"Suspicious circumstance responses","9",2022-08-08,2022-08-14
+"Theft reports taken","0",2022-08-08,2022-08-14
+"Unlocks","64",2022-08-08,2022-08-14
+"Vehicle patrols","183",2022-08-08,2022-08-14
+"Vehicle assistance responses","1",2022-08-08,2022-08-14
+"Welfare check responses","0",2022-08-08,2022-08-14
+"Alarm checks","3",2022-08-01,2022-08-07
+"Animal issue responses","0",2022-08-01,2022-08-07
+"AOD interactions","0",2022-08-01,2022-08-07
+"Building patrols","92",2022-08-01,2022-08-07
+"Candle/incense violation interactions","0",2022-08-01,2022-08-07
+"Community assistance responses","0",2022-08-01,2022-08-07
+"Escorts","1",2022-08-01,2022-08-07
+"Fire responses","0",2022-08-01,2022-08-07
+"Foot patrols","209",2022-08-01,2022-08-07
+"Held door checks","11",2022-08-01,2022-08-07
+"Maintenance issue responses","1",2022-08-01,2022-08-07
+"Medical assistance responses","0",2022-08-01,2022-08-07
+"Noise complaint responses","0",2022-08-01,2022-08-07
+"Suspicious circumstance responses","10",2022-08-01,2022-08-07
+"Theft reports taken","2",2022-08-01,2022-08-07
+"Unlocks","59",2022-08-01,2022-08-07
+"Vehicle patrols","174",2022-08-01,2022-08-07
+"Vehicle assistance responses","1",2022-08-01,2022-08-07
+"Welfare check responses","0",2022-08-01,2022-08-07
+"Alarm checks","6",2022-07-25,2022-07-31
+"Animal issue responses","0",2022-07-25,2022-07-31
+"AOD interactions","1",2022-07-25,2022-07-31
+"Building patrols","153",2022-07-25,2022-07-31
+"Candle/incense violation interactions","0",2022-07-25,2022-07-31
+"Community assistance responses","1",2022-07-25,2022-07-31
+"Escorts","0",2022-07-25,2022-07-31
+"Fire responses","0",2022-07-25,2022-07-31
+"Foot patrols","215",2022-07-25,2022-07-31
+"Held door checks","1",2022-07-25,2022-07-31
+"Maintenance issue responses","0",2022-07-25,2022-07-31
+"Medical assistance responses","0",2022-07-25,2022-07-31
+"Noise complaint responses","0",2022-07-25,2022-07-31
+"Suspicious circumstance responses","16",2022-07-25,2022-07-31
+"Theft reports taken","2",2022-07-25,2022-07-31
+"Unlocks","30",2022-07-25,2022-07-31
+"Vehicle patrols","188",2022-07-25,2022-07-31
+"Vehicle assistance responses","1",2022-07-25,2022-07-31
+"Welfare check responses","0",2022-07-25,2022-07-31
+"Alarm checks","5",2022-07-18,2022-07-24
+"Animal issue responses","0",2022-07-18,2022-07-24
+"AOD interactions","1",2022-07-18,2022-07-24
+"Building patrols","134",2022-07-18,2022-07-24
+"Candle/incense violation interactions","0",2022-07-18,2022-07-24
+"Community assistance responses","1",2022-07-18,2022-07-24
+"Escorts","1",2022-07-18,2022-07-24
+"Fire responses","0",2022-07-18,2022-07-24
+"Foot patrols","201",2022-07-18,2022-07-24
+"Held door checks","2",2022-07-18,2022-07-24
+"Maintenance issue responses","3",2022-07-18,2022-07-24
+"Medical assistance responses","2",2022-07-18,2022-07-24
+"Noise complaint responses","0",2022-07-18,2022-07-24
+"Suspicious circumstance responses","18",2022-07-18,2022-07-24
+"Theft reports taken","2",2022-07-18,2022-07-24
+"Unlocks","16",2022-07-18,2022-07-24
+"Vehicle patrols","2",2022-07-18,2022-07-24
+"Vehicle assistance responses","1",2022-07-18,2022-07-24
+"Welfare check responses","2",2022-07-18,2022-07-24
+"Alarm checks","8",2022-07-11,2022-07-17
+"Animal issue responses","0",2022-07-11,2022-07-17
+"AOD interactions","3",2022-07-11,2022-07-17
+"Building patrols","145",2022-07-11,2022-07-17
+"Candle/incense violation interactions","0",2022-07-11,2022-07-17
+"Community assistance responses","3",2022-07-11,2022-07-17
+"Escorts","1",2022-07-11,2022-07-17
+"Fire responses","0",2022-07-11,2022-07-17
+"Foot patrols","265",2022-07-11,2022-07-17
+"Held door checks","14",2022-07-11,2022-07-17
+"Maintenance issue responses","6",2022-07-11,2022-07-17
+"Medical assistance responses","2",2022-07-11,2022-07-17
+"Noise complaint responses","0",2022-07-11,2022-07-17
+"Suspicious circumstance responses","12",2022-07-11,2022-07-17
+"Theft reports taken","0",2022-07-11,2022-07-17
+"Unlocks","56",2022-07-11,2022-07-17
+"Vehicle patrols","185",2022-07-11,2022-07-17
+"Vehicle assistance responses","0",2022-07-11,2022-07-17
+"Welfare check responses","0",2022-07-11,2022-07-17
+"Alarm checks","7",2022-07-04,2022-07-10
+"Animal issue responses","0",2022-07-04,2022-07-10
+"AOD interactions","0",2022-07-04,2022-07-10
+"Building patrols","169",2022-07-04,2022-07-10
+"Candle/incense violation interactions","0",2022-07-04,2022-07-10
+"Community assistance responses","0",2022-07-04,2022-07-10
+"Escorts","4",2022-07-04,2022-07-10
+"Fire responses","0",2022-07-04,2022-07-10
+"Foot patrols","308",2022-07-04,2022-07-10
+"Held door checks","7",2022-07-04,2022-07-10
+"Maintenance issue responses","0",2022-07-04,2022-07-10
+"Medical assistance responses","0",2022-07-04,2022-07-10
+"Noise complaint responses","0",2022-07-04,2022-07-10
+"Suspicious circumstance responses","11",2022-07-04,2022-07-10
+"Theft reports taken","0",2022-07-04,2022-07-10
+"Unlocks","50",2022-07-04,2022-07-10
+"Vehicle patrols","248",2022-07-04,2022-07-10
+"Vehicle assistance responses","0",2022-07-04,2022-07-10
+"Welfare check responses","0",2022-07-04,2022-07-10
+"Alarm checks","6",2022-06-27,2022-07-03
+"Animal issue responses","0",2022-06-27,2022-07-03
+"AOD interactions","0",2022-06-27,2022-07-03
+"Building patrols","142",2022-06-27,2022-07-03
+"Candle/incense violation interactions","0",2022-06-27,2022-07-03
+"Community assistance responses","0",2022-06-27,2022-07-03
+"Escorts","0",2022-06-27,2022-07-03
+"Fire responses","0",2022-06-27,2022-07-03
+"Foot patrols","225",2022-06-27,2022-07-03
+"Held door checks","4",2022-06-27,2022-07-03
+"Maintenance issue responses","0",2022-06-27,2022-07-03
+"Medical assistance responses","0",2022-06-27,2022-07-03
+"Noise complaint responses","1",2022-06-27,2022-07-03
+"Suspicious circumstance responses","9",2022-06-27,2022-07-03
+"Theft reports taken","0",2022-06-27,2022-07-03
+"Unlocks","49",2022-06-27,2022-07-03
+"Vehicle patrols","191",2022-06-27,2022-07-03
+"Vehicle assistance responses","0",2022-06-27,2022-07-03
+"Welfare check responses","0",2022-06-27,2022-07-03
+"Alarm checks","5",2022-06-20,2022-06-26
+"Animal issue responses","0",2022-06-20,2022-06-26
+"AOD interactions","0",2022-06-20,2022-06-26
+"Building patrols","132",2022-06-20,2022-06-26
+"Candle/incense violation interactions","0",2022-06-20,2022-06-26
+"Community assistance responses","2",2022-06-20,2022-06-26
+"Escorts","0",2022-06-20,2022-06-26
+"Fire responses","0",2022-06-20,2022-06-26
+"Foot patrols","259",2022-06-20,2022-06-26
+"Held door checks","11",2022-06-20,2022-06-26
+"Maintenance issue responses","0",2022-06-20,2022-06-26
+"Medical assistance responses","0",2022-06-20,2022-06-26
+"Noise complaint responses","0",2022-06-20,2022-06-26
+"Suspicious circumstance responses","5",2022-06-20,2022-06-26
+"Theft reports taken","0",2022-06-20,2022-06-26
+"Unlocks","37",2022-06-20,2022-06-26
+"Vehicle patrols","200",2022-06-20,2022-06-26
+"Vehicle assistance responses","1",2022-06-20,2022-06-26
+"Welfare check responses","0",2022-06-20,2022-06-26
+"Alarm checks","7",2022-06-13,2022-06-19
+"Animal issue responses","0",2022-06-13,2022-06-19
+"AOD interactions","0",2022-06-13,2022-06-19
+"Building patrols","152",2022-06-13,2022-06-19
+"Candle/incense violation interactions","0",2022-06-13,2022-06-19
+"Community assistance responses","0",2022-06-13,2022-06-19
+"Escorts","1",2022-06-13,2022-06-19
+"Fire responses","0",2022-06-13,2022-06-19
+"Foot patrols","256",2022-06-13,2022-06-19
+"Held door checks","3",2022-06-13,2022-06-19
+"Maintenance issue responses","2",2022-06-13,2022-06-19
+"Medical assistance responses","0",2022-06-13,2022-06-19
+"Noise complaint responses","0",2022-06-13,2022-06-19
+"Suspicious circumstance responses","5",2022-06-13,2022-06-19
+"Theft reports taken","3",2022-06-13,2022-06-19
+"Unlocks","20",2022-06-13,2022-06-19
+"Vehicle patrols","152",2022-06-13,2022-06-19
+"Vehicle assistance responses","0",2022-06-13,2022-06-19
+"Welfare check responses","0",2022-06-13,2022-06-19
+"Alarm checks","6",2022-06-06,2022-06-12
+"Animal issue responses","0",2022-06-06,2022-06-12
+"AOD interactions","0",2022-06-06,2022-06-12
+"Building patrols","184",2022-06-06,2022-06-12
+"Candle/incense violation interactions","0",2022-06-06,2022-06-12
+"Community assistance responses","0",2022-06-06,2022-06-12
+"Escorts","5",2022-06-06,2022-06-12
+"Fire responses","1",2022-06-06,2022-06-12
+"Foot patrols","282",2022-06-06,2022-06-12
+"Held door checks","9",2022-06-06,2022-06-12
+"Maintenance issue responses","2",2022-06-06,2022-06-12
+"Medical assistance responses","0",2022-06-06,2022-06-12
+"Noise complaint responses","1",2022-06-06,2022-06-12
+"Suspicious circumstance responses","18",2022-06-06,2022-06-12
+"Theft reports taken","0",2022-06-06,2022-06-12
+"Unlocks","59",2022-06-06,2022-06-12
+"Vehicle patrols","205",2022-06-06,2022-06-12
+"Vehicle assistance responses","3",2022-06-06,2022-06-12
+"Welfare check responses","0",2022-06-06,2022-06-12
+"Alarm checks","8",2022-05-30,2022-06-05
+"Animal issue responses","0",2022-05-30,2022-06-05
+"AOD interactions","0",2022-05-30,2022-06-05
+"Building patrols","219",2022-05-30,2022-06-05
+"Candle/incense violation interactions","0",2022-05-30,2022-06-05
+"Community assistance responses","1",2022-05-30,2022-06-05
+"Escorts","1",2022-05-30,2022-06-05
+"Fire responses","0",2022-05-30,2022-06-05
+"Foot patrols","237",2022-05-30,2022-06-05
+"Held door checks","2",2022-05-30,2022-06-05
+"Maintenance issue responses","0",2022-05-30,2022-06-05
+"Medical assistance responses","0",2022-05-30,2022-06-05
+"Noise complaint responses","0",2022-05-30,2022-06-05
+"Suspicious circumstance responses","14",2022-05-30,2022-06-05
+"Theft reports taken","0",2022-05-30,2022-06-05
+"Unlocks","22",2022-05-30,2022-06-05
+"Vehicle patrols","150",2022-05-30,2022-06-05
+"Vehicle assistance responses","2",2022-05-30,2022-06-05
+"Welfare check responses","1",2022-05-30,2022-06-05
+"Alarm checks","6",2022-05-23,2022-05-29
+"Animal issue responses","0",2022-05-23,2022-05-29
+"AOD interactions","1",2022-05-23,2022-05-29
+"Building patrols","192",2022-05-23,2022-05-29
+"Candle/incense violation interactions","0",2022-05-23,2022-05-29
+"Community assistance responses","2",2022-05-23,2022-05-29
+"Escorts","0",2022-05-23,2022-05-29
+"Fire responses","0",2022-05-23,2022-05-29
+"Foot patrols","260",2022-05-23,2022-05-29
+"Held door checks","3",2022-05-23,2022-05-29
+"Maintenance issue responses","0",2022-05-23,2022-05-29
+"Medical assistance responses","0",2022-05-23,2022-05-29
+"Noise complaint responses","1",2022-05-23,2022-05-29
+"Suspicious circumstance responses","19",2022-05-23,2022-05-29
+"Theft reports taken","1",2022-05-23,2022-05-29
+"Unlocks","24",2022-05-23,2022-05-29
+"Vehicle patrols","175",2022-05-23,2022-05-29
+"Vehicle assistance responses","0",2022-05-23,2022-05-29
+"Welfare check responses","0",2022-05-23,2022-05-29
+"Alarm checks","5",2022-05-16,2022-05-22
+"Animal issue responses","0",2022-05-16,2022-05-22
+"AOD interactions","3",2022-05-16,2022-05-22
+"Building patrols","209",2022-05-16,2022-05-22
+"Candle/incense violation interactions","0",2022-05-16,2022-05-22
+"Community assistance responses","5",2022-05-16,2022-05-22
+"Escorts","3",2022-05-16,2022-05-22
+"Fire responses","0",2022-05-16,2022-05-22
+"Foot patrols","313",2022-05-16,2022-05-22
+"Held door checks","5",2022-05-16,2022-05-22
+"Maintenance issue responses","3",2022-05-16,2022-05-22
+"Medical assistance responses","1",2022-05-16,2022-05-22
+"Noise complaint responses","0",2022-05-16,2022-05-22
+"Suspicious circumstance responses","16",2022-05-16,2022-05-22
+"Theft reports taken","1",2022-05-16,2022-05-22
+"Unlocks","47",2022-05-16,2022-05-22
+"Vehicle patrols","207",2022-05-16,2022-05-22
+"Vehicle assistance responses","3",2022-05-16,2022-05-22
+"Welfare check responses","1",2022-05-16,2022-05-22
+"Alarm checks","16",2022-05-09,2022-05-15
+"Animal issue responses","0",2022-05-09,2022-05-15
+"AOD interactions","0",2022-05-09,2022-05-15
+"Building patrols","134",2022-05-09,2022-05-15
+"Candle/incense violation interactions","0",2022-05-09,2022-05-15
+"Community assistance responses","2",2022-05-09,2022-05-15
+"Escorts","2",2022-05-09,2022-05-15
+"Fire responses","0",2022-05-09,2022-05-15
+"Foot patrols","372",2022-05-09,2022-05-15
+"Held door checks","10",2022-05-09,2022-05-15
+"Maintenance issue responses","4",2022-05-09,2022-05-15
+"Medical assistance responses","3",2022-05-09,2022-05-15
+"Noise complaint responses","0",2022-05-09,2022-05-15
+"Suspicious circumstance responses","4",2022-05-09,2022-05-15
+"Theft reports taken","1",2022-05-09,2022-05-15
+"Unlocks","74",2022-05-09,2022-05-15
+"Vehicle patrols","227",2022-05-09,2022-05-15
+"Vehicle assistance responses","3",2022-05-09,2022-05-15
+"Welfare check responses","0",2022-05-09,2022-05-15
+"Alarm checks","9",2022-05-02,2022-05-08
+"Animal issue responses","0",2022-05-02,2022-05-08
+"AOD interactions","0",2022-05-02,2022-05-08
+"Building patrols","123",2022-05-02,2022-05-08
+"Candle/incense violation interactions","0",2022-05-02,2022-05-08
+"Community assistance responses","2",2022-05-02,2022-05-08
+"Escorts","5",2022-05-02,2022-05-08
+"Fire responses","0",2022-05-02,2022-05-08
+"Foot patrols","281",2022-05-02,2022-05-08
+"Held door checks","3",2022-05-02,2022-05-08
+"Maintenance issue responses","1",2022-05-02,2022-05-08
+"Medical assistance responses","1",2022-05-02,2022-05-08
+"Noise complaint responses","3",2022-05-02,2022-05-08
+"Suspicious circumstance responses","11",2022-05-02,2022-05-08
+"Theft reports taken","0",2022-05-02,2022-05-08
+"Unlocks","61",2022-05-02,2022-05-08
+"Vehicle patrols","240",2022-05-02,2022-05-08
+"Vehicle assistance responses","1",2022-05-02,2022-05-08
+"Welfare check responses","0",2022-05-02,2022-05-08
+"Alarm checks","9",2022-04-25,2022-05-01
+"Animal issue responses","0",2022-04-25,2022-05-01
+"AOD interactions","14",2022-04-25,2022-05-01
+"Building patrols","107",2022-04-25,2022-05-01
+"Candle/incense violation interactions","0",2022-04-25,2022-05-01
+"Community assistance responses","5",2022-04-25,2022-05-01
+"Escorts","5",2022-04-25,2022-05-01
+"Fire responses","0",2022-04-25,2022-05-01
+"Foot patrols","409",2022-04-25,2022-05-01
+"Held door checks","20",2022-04-25,2022-05-01
+"Maintenance issue responses","6",2022-04-25,2022-05-01
+"Medical assistance responses","4",2022-04-25,2022-05-01
+"Noise complaint responses","1",2022-04-25,2022-05-01
+"Suspicious circumstance responses","22",2022-04-25,2022-05-01
+"Theft reports taken","0",2022-04-25,2022-05-01
+"Unlocks","85",2022-04-25,2022-05-01
+"Vehicle patrols","241",2022-04-25,2022-05-01
+"Vehicle assistance responses","0",2022-04-25,2022-05-01
+"Welfare check responses","2",2022-04-25,2022-05-01
+"Alarm checks","11",2022-04-18,2022-04-24
+"Animal issue responses","0",2022-04-18,2022-04-24
+"AOD interactions","1",2022-04-18,2022-04-24
+"Building patrols","129",2022-04-18,2022-04-24
+"Candle/incense violation interactions","0",2022-04-18,2022-04-24
+"Community assistance responses","3",2022-04-18,2022-04-24
+"Escorts","3",2022-04-18,2022-04-24
+"Fire responses","0",2022-04-18,2022-04-24
+"Foot patrols","284",2022-04-18,2022-04-24
+"Held door checks","11",2022-04-18,2022-04-24
+"Maintenance issue responses","4",2022-04-18,2022-04-24
+"Medical assistance responses","4",2022-04-18,2022-04-24
+"Noise complaint responses","3",2022-04-18,2022-04-24
+"Suspicious circumstance responses","12",2022-04-18,2022-04-24
+"Theft reports taken","0",2022-04-18,2022-04-24
+"Unlocks","67",2022-04-18,2022-04-24
+"Vehicle patrols","231",2022-04-18,2022-04-24
+"Vehicle assistance responses","2",2022-04-18,2022-04-24
+"Welfare check responses","0",2022-04-18,2022-04-24
+"Alarm checks","6",2022-03-28,2022-04-03
+"Animal issue responses","0",2022-03-28,2022-04-03
+"AOD interactions","1",2022-03-28,2022-04-03
+"Building patrols","179",2022-03-28,2022-04-03
+"Candle/incense violation interactions","0",2022-03-28,2022-04-03
+"Community assistance responses","2",2022-03-28,2022-04-03
+"Escorts","4",2022-03-28,2022-04-03
+"Fire responses","0",2022-03-28,2022-04-03
+"Foot patrols","368",2022-03-28,2022-04-03
+"Held door checks","7",2022-03-28,2022-04-03
+"Maintenance issue responses","1",2022-03-28,2022-04-03
+"Medical assistance responses","9",2022-03-28,2022-04-03
+"Noise complaint responses","1",2022-03-28,2022-04-03
+"Suspicious circumstance responses","21",2022-03-28,2022-04-03
+"Theft reports taken","3",2022-03-28,2022-04-03
+"Unlocks","90",2022-03-28,2022-04-03
+"Vehicle patrols","311",2022-03-28,2022-04-03
+"Vehicle assistance responses","3",2022-03-28,2022-04-03
+"Welfare check responses","1",2022-03-28,2022-04-03
+"Alarm checks","7",2022-03-21,2022-03-27
+"Animal issue responses","0",2022-03-21,2022-03-27
+"AOD interactions","0",2022-03-21,2022-03-27
+"Building patrols","174",2022-03-21,2022-03-27
+"Candle/incense violation interactions","0",2022-03-21,2022-03-27
+"Community assistance responses","0",2022-03-21,2022-03-27
+"Escorts","1",2022-03-21,2022-03-27
+"Fire responses","0",2022-03-21,2022-03-27
+"Foot patrols","329",2022-03-21,2022-03-27
+"Held door checks","5",2022-03-21,2022-03-27
+"Maintenance issue responses","2",2022-03-21,2022-03-27
+"Medical assistance responses","0",2022-03-21,2022-03-27
+"Noise complaint responses","0",2022-03-21,2022-03-27
+"Suspicious circumstance responses","11",2022-03-21,2022-03-27
+"Theft reports taken","1",2022-03-21,2022-03-27
+"Unlocks","46",2022-03-21,2022-03-27
+"Vehicle patrols","255",2022-03-21,2022-03-27
+"Vehicle assistance responses","1",2022-03-21,2022-03-27
+"Welfare check responses","Welfare check responses",2022-03-21,2022-03-27
+"Alarm checks","5",2022-03-14,2022-03-20
+"Animal issue responses","0",2022-03-14,2022-03-20
+"AOD interactions","1",2022-03-14,2022-03-20
+"Building patrols","159",2022-03-14,2022-03-20
+"Candle/incense violation interactions","0",2022-03-14,2022-03-20
+"Community assistance responses","2",2022-03-14,2022-03-20
+"Escorts","8",2022-03-14,2022-03-20
+"Fire responses","0",2022-03-14,2022-03-20
+"Foot patrols","343",2022-03-14,2022-03-20
+"Held door checks","2",2022-03-14,2022-03-20
+"Maintenance issue responses","1",2022-03-14,2022-03-20
+"Medical assistance responses","5",2022-03-14,2022-03-20
+"Noise complaint responses","1",2022-03-14,2022-03-20
+"Suspicious circumstance responses","16",2022-03-14,2022-03-20
+"Theft reports taken","0",2022-03-14,2022-03-20
+"Unlocks","60",2022-03-14,2022-03-20
+"Vehicle patrols","282",2022-03-14,2022-03-20
+"Vehicle assistance responses","1",2022-03-14,2022-03-20
+"Welfare check responses","2",2022-03-14,2022-03-20
+"Alarm checks","8",2022-03-07,2022-03-13
+"Animal issue responses","0",2022-03-07,2022-03-13
+"AOD interactions","2",2022-03-07,2022-03-13
+"Building patrols","166",2022-03-07,2022-03-13
+"Candle/incense violation interactions","0",2022-03-07,2022-03-13
+"Community assistance responses","0",2022-03-07,2022-03-13
+"Escorts","1",2022-03-07,2022-03-13
+"Fire responses","0",2022-03-07,2022-03-13
+"Foot patrols","441",2022-03-07,2022-03-13
+"Held door checks","2",2022-03-07,2022-03-13
+"Maintenance issue responses","0",2022-03-07,2022-03-13
+"Medical assistance responses","1",2022-03-07,2022-03-13
+"Noise complaint responses","0",2022-03-07,2022-03-13
+"Suspicious circumstance responses","5",2022-03-07,2022-03-13
+"Theft reports taken","0",2022-03-07,2022-03-13
+"Unlocks","67",2022-03-07,2022-03-13
+"Vehicle patrols","241",2022-03-07,2022-03-13
+"Vehicle assistance responses","4",2022-03-07,2022-03-13
+"Welfare check responses","0",2022-03-07,2022-03-13
+"Alarm checks","8",2022-02-28,2022-03-06
+"Animal issue responses","0",2022-02-28,2022-03-06
+"AOD interactions","2",2022-02-28,2022-03-06
+"Building patrols","172",2022-02-28,2022-03-06
+"Candle/incense violation interactions","0",2022-02-28,2022-03-06
+"Community assistance responses","0",2022-02-28,2022-03-06
+"Escorts","5",2022-02-28,2022-03-06
+"Fire responses","0",2022-02-28,2022-03-06
+"Foot patrols","349",2022-02-28,2022-03-06
+"Held door checks","11",2022-02-28,2022-03-06
+"Maintenance issue responses","2",2022-02-28,2022-03-06
+"Medical assistance responses","2",2022-02-28,2022-03-06
+"Noise complaint responses","1",2022-02-28,2022-03-06
+"Suspicious circumstance responses","16",2022-02-28,2022-03-06
+"Theft reports taken","1",2022-02-28,2022-03-06
+"Unlocks","74",2022-02-28,2022-03-06
+"Vehicle patrols","254",2022-02-28,2022-03-06
+"Vehicle assistance responses","6",2022-02-28,2022-03-06
+"Welfare check responses","0",2022-02-28,2022-03-06
+"Alarm checks","9",2022-02-21,2022-02-27
+"Animal issue responses","0",2022-02-21,2022-02-27
+"AOD interactions","1",2022-02-21,2022-02-27
+"Building patrols","161",2022-02-21,2022-02-27
+"Candle/incense violation interactions","0",2022-02-21,2022-02-27
+"Community assistance responses","0",2022-02-21,2022-02-27
+"Escorts","5",2022-02-21,2022-02-27
+"Fire responses","0",2022-02-21,2022-02-27
+"Foot patrols","291",2022-02-21,2022-02-27
+"Held door checks","3",2022-02-21,2022-02-27
+"Maintenance issue responses","5",2022-02-21,2022-02-27
+"Medical assistance responses","3",2022-02-21,2022-02-27
+"Noise complaint responses","0",2022-02-21,2022-02-27
+"Suspicious circumstance responses","14",2022-02-21,2022-02-27
+"Theft reports taken","5",2022-02-21,2022-02-27
+"Unlocks","95",2022-02-21,2022-02-27
+"Vehicle patrols","243",2022-02-21,2022-02-27
+"Vehicle assistance responses","3",2022-02-21,2022-02-27
+"Welfare check responses","1",2022-02-21,2022-02-27
+"Alarm checks","9",2022-02-14,2022-02-20
+"Animal issue responses","1",2022-02-14,2022-02-20
+"AOD interactions","0",2022-02-14,2022-02-20
+"Building patrols","156",2022-02-14,2022-02-20
+"Candle/incense violation interactions","0",2022-02-14,2022-02-20
+"Community assistance responses","1",2022-02-14,2022-02-20
+"Escorts","3",2022-02-14,2022-02-20
+"Fire responses","0",2022-02-14,2022-02-20
+"Foot patrols","343",2022-02-14,2022-02-20
+"Held door checks","4",2022-02-14,2022-02-20
+"Maintenance issue responses","1",2022-02-14,2022-02-20
+"Medical assistance responses","4",2022-02-14,2022-02-20
+"Noise complaint responses","3",2022-02-14,2022-02-20
+"Suspicious circumstance responses","13",2022-02-14,2022-02-20
+"Theft reports taken","0",2022-02-14,2022-02-20
+"Unlocks","63",2022-02-14,2022-02-20
+"Vehicle patrols","256",2022-02-14,2022-02-20
+"Vehicle assistance responses","6",2022-02-14,2022-02-20
+"Welfare check responses","2",2022-02-14,2022-02-20
+"Alarm checks","8",2022-02-07,2022-02-13
+"Animal issue responses","0",2022-02-07,2022-02-13
+"AOD interactions","0",2022-02-07,2022-02-13
+"Building patrols","156",2022-02-07,2022-02-13
+"Candle/incense violation interactions","0",2022-02-07,2022-02-13
+"Community assistance responses","0",2022-02-07,2022-02-13
+"Escorts","2",2022-02-07,2022-02-13
+"Fire responses","0",2022-02-07,2022-02-13
+"Foot patrols","429",2022-02-07,2022-02-13
+"Held door checks","6",2022-02-07,2022-02-13
+"Maintenance issue responses","0",2022-02-07,2022-02-13
+"Medical assistance responses","0",2022-02-07,2022-02-13
+"Noise complaint responses","1",2022-02-07,2022-02-13
+"Suspicious circumstance responses","17",2022-02-07,2022-02-13
+"Theft reports taken","0",2022-02-07,2022-02-13
+"Unlocks","74",2022-02-07,2022-02-13
+"Vehicle patrols","281",2022-02-07,2022-02-13
+"Vehicle assistance responses","6",2022-02-07,2022-02-13
+"Welfare check responses","0",2022-02-07,2022-02-13
+"Alarm checks","11",2022-01-31,2022-02-06
+"Animal issue responses","0",2022-01-31,2022-02-06
+"AOD interactions","0",2022-01-31,2022-02-06
+"Building patrols","138",2022-01-31,2022-02-06
+"Candle/incense violation interactions","0",2022-01-31,2022-02-06
+"Community assistance responses","0",2022-01-31,2022-02-06
+"Escorts","2",2022-01-31,2022-02-06
+"Fire responses","0",2022-01-31,2022-02-06
+"Foot patrols","339",2022-01-31,2022-02-06
+"Held door checks","3 ",2022-01-31,2022-02-06
+"Maintenance issue responses","1",2022-01-31,2022-02-06
+"Medical assistance responses","1",2022-01-31,2022-02-06
+"Noise complaint responses","2",2022-01-31,2022-02-06
+"Suspicious circumstance responses","9",2022-01-31,2022-02-06
+"Theft reports taken","0",2022-01-31,2022-02-06
+"Unlocks","63",2022-01-31,2022-02-06
+"Vehicle patrols","220",2022-01-31,2022-02-06
+"Vehicle assistance responses","4",2022-01-31,2022-02-06
+"Welfare check responses","0",2022-01-31,2022-02-06
+"Alarm checks","5",2022-01-24,2022-01-30
+"Animal issue responses","0",2022-01-24,2022-01-30
+"AOD interactions","1",2022-01-24,2022-01-30
+"Building patrols","152",2022-01-24,2022-01-30
+"Candle/incense violation interactions","0",2022-01-24,2022-01-30
+"Community assistance responses","1",2022-01-24,2022-01-30
+"Escorts","0",2022-01-24,2022-01-30
+"Fire responses","0",2022-01-24,2022-01-30
+"Foot patrols","418",2022-01-24,2022-01-30
+"Held door checks","4",2022-01-24,2022-01-30
+"Maintenance issue responses","3",2022-01-24,2022-01-30
+"Medical assistance responses","2",2022-01-24,2022-01-30
+"Noise complaint responses","0",2022-01-24,2022-01-30
+"Suspicious circumstance responses","7",2022-01-24,2022-01-30
+"Theft reports taken","2",2022-01-24,2022-01-30
+"Unlocks","61",2022-01-24,2022-01-30
+"Vehicle patrols","210",2022-01-24,2022-01-30
+"Vehicle assistance responses","3",2022-01-24,2022-01-30
+"Welfare check responses","0",2022-01-24,2022-01-30
+"Alarm checks","7",2022-01-17,2022-01-23
+"Animal issue responses","0",2022-01-17,2022-01-23
+"AOD interactions","0",2022-01-17,2022-01-23
+"Building patrols","172 ",2022-01-17,2022-01-23
+"Candle/incense violation interactions","2",2022-01-17,2022-01-23
+"Community assistance responses","0",2022-01-17,2022-01-23
+"Escorts","0",2022-01-17,2022-01-23
+"Fire responses","0",2022-01-17,2022-01-23
+"Foot patrols","427",2022-01-17,2022-01-23
+"Held door checks","5",2022-01-17,2022-01-23
+"Maintenance issue responses","0",2022-01-17,2022-01-23
+"Medical assistance responses","0",2022-01-17,2022-01-23
+"Noise complaint responses","1",2022-01-17,2022-01-23
+"Suspicious circumstance responses","18",2022-01-17,2022-01-23
+"Theft reports taken","2",2022-01-17,2022-01-23
+"Unlocks","83",2022-01-17,2022-01-23
+"Vehicle patrols","238",2022-01-17,2022-01-23
+"Vehicle assistance responses","5",2022-01-17,2022-01-23
+"Welfare check responses","0",2022-01-17,2022-01-23
+"Alarm checks","5",2022-01-10,2022-01-16
+"Animal issue responses","0",2022-01-10,2022-01-16
+"AOD interactions","0",2022-01-10,2022-01-16
+"Building patrols","198",2022-01-10,2022-01-16
+"Community assistance responses","2",2022-01-10,2022-01-16
+"Escorts","1",2022-01-10,2022-01-16
+"Fire responses","0",2022-01-10,2022-01-16
+"Foot patrols","420",2022-01-10,2022-01-16
+"Held door checks","6",2022-01-10,2022-01-16
+"Maintenance issue responses","1",2022-01-10,2022-01-16
+"Medical assistance responses","0",2022-01-10,2022-01-16
+"Noise complaint responses","0",2022-01-10,2022-01-16
+"Suspicious circumstance responses","6",2022-01-10,2022-01-16
+"Theft reports taken","0",2022-01-10,2022-01-16
+"Unlocks","64",2022-01-10,2022-01-16
+"Vehicle patrols","295",2022-01-10,2022-01-16
+"Vehicle assistance responses","5",2022-01-10,2022-01-16
+"Welfare check responses","0",2022-01-10,2022-01-16
+"Alarm checks","6",2022-01-03,2022-01-09
+"Animal issue responses","0",2022-01-03,2022-01-09
+"AOD interactions","0",2022-01-03,2022-01-09
+"Building patrols","205",2022-01-03,2022-01-09
+"Community assistance responses","0",2022-01-03,2022-01-09
+"Escorts","0",2022-01-03,2022-01-09
+"Fire responses","0",2022-01-03,2022-01-09
+"Foot patrols","398",2022-01-03,2022-01-09
+"Held door checks","7",2022-01-03,2022-01-09
+"Maintenance issue responses","0",2022-01-03,2022-01-09
+"Medical assistance responses","3 ",2022-01-03,2022-01-09
+"Noise complaint responses","0",2022-01-03,2022-01-09
+"Suspicious circumstance responses","10",2022-01-03,2022-01-09
+"Theft reports taken","0",2022-01-03,2022-01-09
+"Unlocks","33",2022-01-03,2022-01-09
+"Vehicle patrols","250",2022-01-03,2022-01-09
+"Vehicle assistance responses","1",2022-01-03,2022-01-09
+"Welfare check responses","0",2022-01-03,2022-01-09
+"Alarm checks","8",2021-12-27,2022-01-02
+"Animal issue responses","0",2021-12-27,2022-01-02
+"AOD interactions","0",2021-12-27,2022-01-02
+"Building patrols","204",2021-12-27,2022-01-02
+"Community assistance responses","0",2021-12-27,2022-01-02
+"Escorts","0",2021-12-27,2022-01-02
+"Fire responses","0",2021-12-27,2022-01-02
+"Foot patrols","316",2021-12-27,2022-01-02
+"Held door checks","0",2021-12-27,2022-01-02
+"Maintenance issue responses","1",2021-12-27,2022-01-02
+"Medical assistance responses","0",2021-12-27,2022-01-02
+"Noise complaint responses","0",2021-12-27,2022-01-02
+"Suspicious circumstance responses","12",2021-12-27,2022-01-02
+"Theft reports taken","0",2021-12-27,2022-01-02
+"Unlocks","23",2021-12-27,2022-01-02
+"Vehicle patrols","273",2021-12-27,2022-01-02
+"Vehicle assistance responses","1",2021-12-27,2022-01-02
+"Welfare check responses","0",2021-12-27,2022-01-02
+"Alarm checks","3",NA,2021-12-26
+"Animal issue responses","0",NA,2021-12-26
+"AOD interactions","0",NA,2021-12-26
+"Building patrols","195",NA,2021-12-26
+"Community assistance responses","0",NA,2021-12-26
+"Escorts","0",NA,2021-12-26
+"Fire responses","0",NA,2021-12-26
+"Foot patrols","372",NA,2021-12-26
+"Held door checks","6",NA,2021-12-26
+"Maintenance issue responses","2",NA,2021-12-26
+"Medical assistance responses","0",NA,2021-12-26
+"Noise complaint responses","0",NA,2021-12-26
+"Suspicious circumstance responses","7",NA,2021-12-26
+"Theft reports taken","0",NA,2021-12-26
+"Unlocks","30 ",NA,2021-12-26
+"Vehicle patrols","238",NA,2021-12-26
+"Vehicle assistance responses","1",NA,2021-12-26
+"Welfare check responses","0",NA,2021-12-26
+"Alarm checks","3",NA,2021-12-19
+"Animal issue responses","0",NA,2021-12-19
+"AOD interactions","2",NA,2021-12-19
+"Building patrols","228",NA,2021-12-19
+"Community assistance responses","4",NA,2021-12-19
+"Escorts","3",NA,2021-12-19
+"Fire responses","0",NA,2021-12-19
+"Foot patrols","388",NA,2021-12-19
+"Held door checks","16",NA,2021-12-19
+"Maintenance issue responses","4",NA,2021-12-19
+"Medical assistance responses","4",NA,2021-12-19
+"Noise complaint responses","0",NA,2021-12-19
+"Suspicious circumstance responses","8",NA,2021-12-19
+"Theft reports taken","0",NA,2021-12-19
+"Unlocks","57",NA,2021-12-19
+"Vehicle patrols","256",NA,2021-12-19
+"Vehicle assistance responses","4",NA,2021-12-19
+"Welfare check responses","0",NA,2021-12-19
+"Alarm checks","3",NA,2021-12-12
+"Animal issue responses","1",NA,2021-12-12
+"AOD interactions","0",NA,2021-12-12
+"Building patrols","252",NA,2021-12-12
+"Community assistance responses","2",NA,2021-12-12
+"Escorts","8",NA,2021-12-12
+"Fire responses","0",NA,2021-12-12
+"Foot patrols","387",NA,2021-12-12
+"Held door checks","13",NA,2021-12-12
+"Maintenance issue responses","2",NA,2021-12-12
+"Medical assistance responses","2",NA,2021-12-12
+"Noise complaint responses","1",NA,2021-12-12
+"Suspicious circumstance responses","14",NA,2021-12-12
+"Theft reports taken","3",NA,2021-12-12
+"Unlocks","63",NA,2021-12-12
+"Vehicle patrols","306",NA,2021-12-12
+"Vehicle assistance responses","1",NA,2021-12-12
+"Welfare check responses","0",NA,2021-12-12
+"Alarm checks","5",NA,2021-12-05
+"Animal issue responses","1",NA,2021-12-05
+"AOD interactions","1",NA,2021-12-05
+"Building patrols","227",NA,2021-12-05
+"Community assistance responses","5",NA,2021-12-05
+"Escorts","4",NA,2021-12-05
+"Fire responses","0",NA,2021-12-05
+"Foot patrols","392",NA,2021-12-05
+"Held door checks","8",NA,2021-12-05
+"Maintenance issue responses","2",NA,2021-12-05
+"Medical assistance responses","4",NA,2021-12-05
+"Noise complaint responses","2",NA,2021-12-05
+"Suspicious circumstance responses","14",NA,2021-12-05
+"Theft reports taken","0",NA,2021-12-05
+"Unlocks","77",NA,2021-12-05
+"Vehicle patrols","300",NA,2021-12-05
+"Vehicle assistance responses","5",NA,2021-12-05
+"Welfare check responses","1",NA,2021-12-05
+"Alarm checks","10",NA,2021-11-28
+"Animal issue responses","0",NA,2021-11-28
+"AOD interactions","0",NA,2021-11-28
+"Building patrols","251",NA,2021-11-28
+"Community assistance responses","0",NA,2021-11-28
+"Escorts","5",NA,2021-11-28
+"Fire responses","1",NA,2021-11-28
+"Foot patrols","381",NA,2021-11-28
+"Held door checks","9",NA,2021-11-28
+"Medical assistance responses","0",NA,2021-11-28
+"Noise complaint responses","0",NA,2021-11-28
+"Suspicious circumstance responses","16",NA,2021-11-28
+"Theft reports taken","2",NA,2021-11-28
+"Unlocks","61",NA,2021-11-28
+"Vehicle patrols","317",NA,2021-11-28
+"Vehicle assistance responses","0",NA,2021-11-28
+"Alarm checks","15",NA,2021-11-21
+"Animal issue responses","1",NA,2021-11-21
+"AOD interactions","1",NA,2021-11-21
+"Building patrols","219",NA,2021-11-21
+"Community assistance responses","3",NA,2021-11-21
+"Escorts","5",NA,2021-11-21
+"Fire responses","2 ",NA,2021-11-21
+"Foot patrols","413",NA,2021-11-21
+"Held door checks","24",NA,2021-11-21
+"Medical assistance responses","4",NA,2021-11-21
+"Noise complaint responses","1",NA,2021-11-21
+"Suspicious circumstance responses","19",NA,2021-11-21
+"Unlocks","75",NA,2021-11-21
+"Vehicle patrols","301",NA,2021-11-21
+"Vehicle assistance responses","2",NA,2021-11-21
+"Alarm checks","9",NA,2021-11-14
+"AOD interactions","1",NA,2021-11-14
+"Building patrols","247",NA,2021-11-14
+"Community assistance responses","1",NA,2021-11-14
+"Escorts","7",NA,2021-11-14
+"Foot patrols","358",NA,2021-11-14
+"Held door checks","20",NA,2021-11-14
+"Medical assistance responses","2",NA,2021-11-14
+"Noise complaint responses","1",NA,2021-11-14
+"Suspicious circumstance responses","13",NA,2021-11-14
+"Unlocks","83",NA,2021-11-14
+"Vehicle patrols","284",NA,2021-11-14
+"Vehicle assistance responses","1",NA,2021-11-14
+"Building patrols","236",NA,2021-11-07
+"Community assistance responses","1",NA,2021-11-07
+"Escorts","5",NA,2021-11-07
+"Foot patrols","342",NA,2021-11-07
+"Held door checks","28",NA,2021-11-07
+"Medical assistance responses","2",NA,2021-11-07
+"Noise complaint responses","1",NA,2021-11-07
+"Suspicious circumstance responses","13",NA,2021-11-07
+"Unlocks","80",NA,2021-11-07
+"Vehicle patrols","289",NA,2021-11-07
+"Vehicle assistance responses","1",NA,2021-11-07
+"Alarm responses","10",NA,2021-10-31
+"AOD interactions","1",NA,2021-10-31
+"Building patrols","233",NA,2021-10-31
+"Community assistance responses","2",NA,2021-10-31
+"Escorts","7",NA,2021-10-31
+"Foot patrols","365",NA,2021-10-31
+"Held door checks","17",NA,2021-10-31
+"Medical assistance responses","2",NA,2021-10-31
+"Noise complaint responses","2",NA,2021-10-31
+"Suspicious circumstance responses","7",NA,2021-10-31
+"Unlocks","98",NA,2021-10-31
+"Vehicle patrols","221",NA,2021-10-31
+"Vehicle assistance responses","2",NA,2021-10-31
+"Alarm responses","6",NA,2021-10-24
+"Animal issue responses","2",NA,2021-10-24
+"Building patrols","184",NA,2021-10-24
+"Escorts","1",NA,2021-10-24
+"Foot patrols","253",NA,2021-10-24
+"Held door checks","10",NA,2021-10-24
+"Medical assistance responses","2",NA,2021-10-24
+"Suspicious circumstance responses","26",NA,2021-10-24
+"Unlocks","78",NA,2021-10-24
+"Vehicle patrols","210",NA,2021-10-24
+"Alarm responses","9",NA,2021-10-17
+"Animal issue responses","2",NA,2021-10-17
+"Building patrols","131",NA,2021-10-17
+"Escorts","1",NA,2021-10-17
+"Foot patrols","230",NA,2021-10-17
+"Held door checks","14",NA,2021-10-17
+"Medical assistance responses","6",NA,2021-10-17
+"Suspicious circumstance responses","17",NA,2021-10-17
+"Unlocks","84",NA,2021-10-17
+"Vehicle patrols","195",NA,2021-10-17
+"Vehicle assistance responses","3",NA,2021-10-17
+"Building patrols","190",NA,2021-10-10
+"Foot patrols","344",NA,2021-10-10
+"Vehicle patrols","242",NA,2021-10-10
+"Vehicle assistance responses","4",NA,2021-10-10
+"Held door checks","16",NA,2021-10-10
+"Escorts","1",NA,2021-10-10
+"Medical assistance responses","3",NA,2021-10-10
+"Unlocks","100",NA,2021-10-10
+"Suspicious circumstance responses","27",NA,2021-10-10
+"Building patrols","167",NA,2021-10-03
+"Foot patrols","308",NA,2021-10-03
+"Segway patrols","2",NA,2021-10-03
+"Vehicle patrols","197",NA,2021-10-03
+"Held door checks","20",NA,2021-10-03
+"Escorts","1",NA,2021-10-03
+"Unlocks","69",NA,2021-10-03
+"Suspicious circumstance responses","12",NA,2021-10-03

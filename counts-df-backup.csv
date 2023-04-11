@@ -322,25 +322,6 @@
 "Vehicle patrols","268",2022-12-05,2022-12-11
 "Vehicle assistance responses","6",2022-12-05,2022-12-11
 "Welfare check responses","0",2022-12-05,2022-12-11
-"Alarm checks","16",2022-11-28,2022-12-04
-"Animal issue responses","0",2022-11-28,2022-12-04
-"AOD interactions","1",2022-11-28,2022-12-04
-"Building patrols","218",2022-11-28,2022-12-04
-"Candle/incense violation interactions","0",2022-11-28,2022-12-04
-"Community assistance responses","0",2022-11-28,2022-12-04
-"Escorts","3",2022-11-28,2022-12-04
-"Fire responses","0",2022-11-28,2022-12-04
-"Foot patrols","212",2022-11-28,2022-12-04
-"Held door checks","11",2022-11-28,2022-12-04
-"Maintenance issue responses","4",2022-11-28,2022-12-04
-"Medical assistance responses","1",2022-11-28,2022-12-04
-"Noise complaint responses","2",2022-11-28,2022-12-04
-"Suspicious circumstance responses","15",2022-11-28,2022-12-04
-"Theft reports taken","2",2022-11-28,2022-12-04
-"Unlocks","87",2022-11-28,2022-12-04
-"Vehicle patrols","230",2022-11-28,2022-12-04
-"Vehicle assistance responses","2",2022-11-28,2022-12-04
-"Welfare check responses","3",2022-11-28,2022-12-04
 "Alarm checks","14",2022-11-21,2022-11-27
 "Animal issue responses","0",2022-11-21,2022-11-27
 "AOD interactions","1",2022-11-21,2022-11-27
@@ -987,25 +968,6 @@
 "Vehicle patrols","255",2022-03-21,2022-03-27
 "Vehicle assistance responses","1",2022-03-21,2022-03-27
 "Welfare check responses","Welfare check responses",2022-03-21,2022-03-27
-"Alarm checks","5",2022-03-14,2022-03-20
-"Animal issue responses","0",2022-03-14,2022-03-20
-"AOD interactions","1",2022-03-14,2022-03-20
-"Building patrols","159",2022-03-14,2022-03-20
-"Candle/incense violation interactions","0",2022-03-14,2022-03-20
-"Community assistance responses","2",2022-03-14,2022-03-20
-"Escorts","8",2022-03-14,2022-03-20
-"Fire responses","0",2022-03-14,2022-03-20
-"Foot patrols","343",2022-03-14,2022-03-20
-"Held door checks","2",2022-03-14,2022-03-20
-"Maintenance issue responses","1",2022-03-14,2022-03-20
-"Medical assistance responses","5",2022-03-14,2022-03-20
-"Noise complaint responses","1",2022-03-14,2022-03-20
-"Suspicious circumstance responses","16",2022-03-14,2022-03-20
-"Theft reports taken","0",2022-03-14,2022-03-20
-"Unlocks","60",2022-03-14,2022-03-20
-"Vehicle patrols","282",2022-03-14,2022-03-20
-"Vehicle assistance responses","1",2022-03-14,2022-03-20
-"Welfare check responses","2",2022-03-14,2022-03-20
 "Alarm checks","8",2022-03-07,2022-03-13
 "Animal issue responses","0",2022-03-07,2022-03-13
 "AOD interactions","2",2022-03-07,2022-03-13
@@ -1284,22 +1246,6 @@
 "Vehicle patrols","300",NA,2021-12-05
 "Vehicle assistance responses","5",NA,2021-12-05
 "Welfare check responses","1",NA,2021-12-05
-"Alarm checks","10",NA,2021-11-28
-"Animal issue responses","0",NA,2021-11-28
-"AOD interactions","0",NA,2021-11-28
-"Building patrols","251",NA,2021-11-28
-"Community assistance responses","0",NA,2021-11-28
-"Escorts","5",NA,2021-11-28
-"Fire responses","1",NA,2021-11-28
-"Foot patrols","381",NA,2021-11-28
-"Held door checks","9",NA,2021-11-28
-"Medical assistance responses","0",NA,2021-11-28
-"Noise complaint responses","0",NA,2021-11-28
-"Suspicious circumstance responses","16",NA,2021-11-28
-"Theft reports taken","2",NA,2021-11-28
-"Unlocks","61",NA,2021-11-28
-"Vehicle patrols","317",NA,2021-11-28
-"Vehicle assistance responses","0",NA,2021-11-28
 "Alarm checks","15",NA,2021-11-21
 "Animal issue responses","1",NA,2021-11-21
 "AOD interactions","1",NA,2021-11-21
@@ -1339,19 +1285,6 @@
 "Unlocks","80",NA,2021-11-07
 "Vehicle patrols","289",NA,2021-11-07
 "Vehicle assistance responses","1",NA,2021-11-07
-"Alarm responses","10",NA,2021-10-31
-"AOD interactions","1",NA,2021-10-31
-"Building patrols","233",NA,2021-10-31
-"Community assistance responses","2",NA,2021-10-31
-"Escorts","7",NA,2021-10-31
-"Foot patrols","365",NA,2021-10-31
-"Held door checks","17",NA,2021-10-31
-"Medical assistance responses","2",NA,2021-10-31
-"Noise complaint responses","2",NA,2021-10-31
-"Suspicious circumstance responses","7",NA,2021-10-31
-"Unlocks","98",NA,2021-10-31
-"Vehicle patrols","221",NA,2021-10-31
-"Vehicle assistance responses","2",NA,2021-10-31
 "Alarm responses","6",NA,2021-10-24
 "Animal issue responses","2",NA,2021-10-24
 "Building patrols","184",NA,2021-10-24
