@@ -1,6 +1,7 @@
 library(tidyverse)
 library(rvest)
 library(plyr)
+library(lubridate)
 
 getCounts <- function(url) {
   
